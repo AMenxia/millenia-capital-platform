@@ -263,6 +263,8 @@ with tabs[2]:
     else:
         layout_items = read_json(run_dir / "layout_items.json", default=[])
         st.write(f"Detected items: {len(layout_items)}")
+        doc_pairs = sorted({(i.get("doc_id", ""), i.get("file_name", "")) for i in layout_items if i.get("doc_id")})
+        doc_labels = [f"{d[0]}-{d[1]}" for d in doc_pairs]
         c1, c2, c3 = st.columns(3)
         with c1:
             type_filter = st.multiselect("Item types", sorted(set(i.get("item_type") for i in layout_items)), default=[])
@@ -270,7 +272,11 @@ with tabs[2]:
             skim_filter = st.multiselect("Quick skim", sorted(set((i.get("quick_skim") or {}).get("label") for i in layout_items if i.get("quick_skim"))), default=[])
         with c3:
             page_filter = st.text_input("Page contains", value="")
+        doc_filter = st.multiselect("Document", doc_labels, default=[])
         filtered = layout_items
+        if doc_filter:
+            selected_doc_ids = {lbl.split("-", 1)[0] for lbl in doc_filter}
+            filtered = [i for i in filtered if i.get("doc_id") in selected_doc_ids]
         if type_filter:
             filtered = [i for i in filtered if i.get("item_type") in type_filter]
         if skim_filter:
