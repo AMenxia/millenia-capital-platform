@@ -1,0 +1,34 @@
+{
+  "template_name": "company_overview_public",
+  "description": "Public-safe company overview template for demo documents.",
+  "fields": [
+    {
+      "name": "company_name",
+      "description": "Company or organization name."
+    },
+    {
+      "name": "business_summary",
+      "description": "What the company does."
+    },
+    {
+      "name": "products_or_services",
+      "description": "Products/services mentioned."
+    },
+    {
+      "name": "market_or_customers",
+      "description": "Target market/customers."
+    },
+    {
+      "name": "traction_or_metrics",
+      "description": "Public metrics, milestones, or traction."
+    },
+    {
+      "name": "team_or_leadership",
+      "description": "Named team/leadership."
+    },
+    {
+      "name": "risks_or_open_questions",
+      "description": "Gaps, risks, or unclear points."
+    }
+  ]
+}

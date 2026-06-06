@@ -1,0 +1,466 @@
+{
+  "doc_id": "convertible-note-executed-1",
+  "file_name": "convertible-note-executed-1",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1",
+  "document_category": "Convertible note agreement / legal document",
+  "short_summary": "HealthRate, Inc. executed a $500,000 Convertible Promissory Note with First Trust Capital Partners, LLC, maturing on August 30, 2026, bearing an interest rate of 18% per annum. The note includes conversion provisions and was signed by Tim Michaels, CEO of HealthRate, and James A. Bowen, Chairman of First Trust Capital Partners.",
+  "long_summary": "The document is an executed Convertible Promissory Note in which HealthRate, Inc., a Nevada corporation, promises to pay First Trust Capital Partners, LLC the principal sum of $500,000 plus interest at an annual rate of 18%. The note matures on August 30, 2026 and includes default, conversion, and miscellaneous provisions. Signature blocks show Tim Michaels, Chief Executive Officer of HealthRate, Inc., and James A. Bowen, Chairman of First Trust Capital Partners, LLC, with contact details provided. The note specifies that it has not been registered under the Securities Act and outlines the rights of the holder upon default.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "HealthRate (evidence: \"HealthRate, Inc., a Nevada corporation\" and \"HealthRate, Inc.\")",
+      "evidence": [
+        {
+          "quote": "HealthRate, Inc., a Nevada corporation",
+          "surrounding_context": "BEEN ACQUIRED FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR RESALE IN CONNECTION WITH THE DISTRIBUTION THEREOF. NO DISPOSITION OF THIS NOTE OR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED MAY BE MADE IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN OPINION OF COUNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Convertible Promissory Note (this ' Note '). This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement dated as of the date hereof by and among the Maker, the Holder and such other Investor parties identified therein (the ' Purchase Agreement ').\n\nSection 1 Loan Amount. Holder is lending to Maker Five Hundred Thousand and No/100 Dollars ($50",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": "HealthRate, Inc.",
+      "answer": "HealthRate, Inc. (evidence: \"HealthRate, Inc., a Nevada corporation\")",
+      "evidence": [
+        {
+          "quote": "HealthRate, Inc., a Nevada corporation (' Maker ')",
+          "surrounding_context": "BEEN ACQUIRED FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR RESALE IN CONNECTION WITH THE DISTRIBUTION THEREOF. NO DISPOSITION OF THIS NOTE OR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED MAY BE MADE IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN OPINION OF COUNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Convertible Promissory Note (this ' Note '). This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement dated as of the date hereof by and among the Maker, the Holder and such other Investor parties identified therein (the ' Purchase Agreement ').\n\nSection 1 Loan Amount. Holder is lending to Maker Five Hundred Thousand and No/100 Dollars ($500,000.00) on",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": "Hudson, WI",
+      "answer": "Hudson, WI (evidence: \"Address: 734 Oriole Lane Hudson, WI 54016\")",
+      "evidence": [
+        {
+          "quote": "Address: 734 Oriole Lane Hudson, WI 54016",
+          "surrounding_context": "d necessary disbursements in addition to any other relief to which Holder may be entitled.\n\n- (i) Counterparts. This Note may be executed in any number of counterparts and by different\n\n---\nPage 6\n---\n\nparties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same Note.\n\n[ Remainder of Page Intentionally Left Blank ]\n\n---\nPage 7\n---\n\nIN WITNESS WHEREOF , each of Maker and Holder has executed and delivered this Note as of the Effective Date.\n\n## MAKER :\n\n## HealthRate, Inc.\n\nBy:\n\nTim Michaels, Chief Executive Officer\n\nAddress: 734 Oriole Lane Hudson, WI 54016 Attention: Tim Michaels Email: tim@healthrate.io\n\n## HOLDER :\n\n## First Trust Capital Partners, LLC\n\nBy:\n\nJames A. Bowen, Chairman\n\nAddress: 120 East Liberty Drive, Suite 400 Wheaton, IL 60187 Attention: Jonathan Phillips Email: jonphillips@ftcapitalpartners.com",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 2,
+          "start_char": 14344,
+          "end_char": 20005,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "incorporation_location": {
+      "value": "Nevada",
+      "answer": "Nevada (evidence: \"a Nevada corporation\")",
+      "evidence": [
+        {
+          "quote": "a Nevada corporation",
+          "surrounding_context": "INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR RESALE IN CONNECTION WITH THE DISTRIBUTION THEREOF. NO DISPOSITION OF THIS NOTE OR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED MAY BE MADE IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN OPINION OF COUNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Convertible Promissory Note (this ' Note '). This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement dated as of the date hereof by and among the Maker, the Holder and such other Investor parties identified therein (the ' Purchase Agreement ').\n\nSection 1 Loan Amount. Holder is lending to Maker Five Hundred Thousand and No/100 Dollars ($50",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": "Corporation",
+      "answer": "Corporation (evidence: \"HealthRate, Inc., a Nevada corporation\")",
+      "evidence": [
+        {
+          "quote": "HealthRate, Inc., a Nevada corporation",
+          "surrounding_context": "BEEN ACQUIRED FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR RESALE IN CONNECTION WITH THE DISTRIBUTION THEREOF. NO DISPOSITION OF THIS NOTE OR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED MAY BE MADE IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN OPINION OF COUNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Convertible Promissory Note (this ' Note '). This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement dated as of the date hereof by and among the Maker, the Holder and such other Investor parties identified therein (the ' Purchase Agreement ').\n\nSection 1 Loan Amount. Holder is lending to Maker Five Hundred Thousand and No/100 Dollars ($50",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": "500000",
+      "answer": "$500,000 raised (evidence: \"...the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00)\")",
+      "evidence": [
+        {
+          "quote": "FOR VALUE RECEIVED , HealthRate, Inc., ... hereby promises to pay to First Trust Capital Partners, LLC ... the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00)",
+          "surrounding_context": "# Convertible Note - Executed (1).pdf\n\n---\nPage 1\n---\n\nNEITHER THIS NOTE NOR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED HAVE BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE ' SECURITIES ACT '), OR ANY APPLICABLE STATE SECURITIES LAWS. BY ITS ACCEPTANCE HEREOF, HOLDER AGREES THAT THIS NOTE HAS BEEN ACQUIRED FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR RESALE IN CONNECTION WITH THE DISTRIBUTION THEREOF. NO DISPOSITION OF THIS NOTE OR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED MAY BE MADE IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN OPINION OF COUNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Conv\n...[truncated]",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": "Convertible Note",
+      "answer": "Convertible Note (evidence: \"This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement\")",
+      "evidence": [
+        {
+          "quote": "This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement",
+          "surrounding_context": "UNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Convertible Promissory Note (this ' Note '). This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement dated as of the date hereof by and among the Maker, the Holder and such other Investor parties identified therein (the ' Purchase Agreement ').\n\nSection 1 Loan Amount. Holder is lending to Maker Five Hundred Thousand and No/100 Dollars ($500,000.00) on the date hereof (the ' Effective Date ').\n\n## Section 2 Payments.\n\n- (a) Principal. Subject to the terms and conditions of this Note, the outstanding principal balance of this Note, and all accrued but unpaid interest thereon, shall be due and payable on August 30, 2026 (the ' Maturity Date ').\n\n- (b) Manner of Payment. Subject to Section 3 below, all payments of principal and interest on this",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "instrument": {
+      "value": "Convertible Promissory Note",
+      "answer": "Convertible Promissory Note (evidence: \"## CONVERTIBLE PROMISSORY NOTE\")",
+      "evidence": [
+        {
+          "quote": "## CONVERTIBLE PROMISSORY NOTE",
+          "surrounding_context": "STATE SECURITIES LAWS. BY ITS ACCEPTANCE HEREOF, HOLDER AGREES THAT THIS NOTE HAS BEEN ACQUIRED FOR INVESTMENT PURPOSES ONLY AND NOT WITH A VIEW TO OR FOR RESALE IN CONNECTION WITH THE DISTRIBUTION THEREOF. NO DISPOSITION OF THIS NOTE OR THE SECURITIES INTO WHICH THE OUTSTANDING BALANCE HEREOF MAY BE CONVERTED MAY BE MADE IN THE ABSENCE OF (1) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (2) AN OPINION OF COUNSEL ACCEPTABLE TO MAKER THAT SUCH DISPOSITION WITHOUT REGISTRATION DOES NOT VIOLATE THE REQUIREMENTS OF THE SECURITIES ACT OR ANY APPLICABLE STATE SECURITIES LAWS, OR ANY OTHER APPLICABLE LAWS, RULES OR REGULATIONS.\n\n## CONVERTIBLE PROMISSORY NOTE\n\n$500,000.00\n\nAugust 30, 2024\n\nFOR VALUE RECEIVED , HealthRate, Inc., a Nevada corporation (' Maker '), hereby promises to pay to First Trust Capital Partners, LLC, an Illinois limited liability company (' Holder ') the principal sum of Five Hundred Thousand and No/100 Dollars ($500,000.00), plus interest accruing thereon in the manner provided in this Convertible Promissory Note (this ' Note '). This Note is one of the 'Notes' issued pursuant to that certain Convertible Note Purchase Agreement dated as of the date hereof by and among the Maker, the Holder and such other Investor parties identified therein (the ' Purchase Agreement ').\n\nSect",
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "chunk_index": 1,
+          "start_char": 2,
+          "end_char": 15544,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md"
+        }
+      ]
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "tim@healthrate.io"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "By:\n\nTim Michaels, Chief Executive Officer\n\nAddress: 734 Oriole Lane Hudson, WI 54016 Attention: Tim Michaels Email: tim@healthrate.io",
+          "surrounding_context": "tled to reasonable attorneys' fees, costs and necessary disbursements in addition to any other relief to which Holder may be entitled.\n\n- (i) Counterparts. This Note may be executed in any number of counterparts and by different\n\n---\nPage 6\n---\n\nparties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same Note.\n\n[ Remainder of Page Intentionally Left Blank ]\n\n---\nPage 7\n---\n\nIN WITNESS WHEREOF , each of Maker and Holder has executed and delivered this Note as of the Effective Date.\n\n## MAKER :\n\n## HealthRate, Inc.\n\nBy:\n\nTim Michaels, Chief Executive Officer\n\nAddress: 734 Oriole Lane Hudson, WI 54016 Attention: Tim Michaels Email: tim@healthrate.io\n\n## HOLDER :\n\n## First Trust Capital Partners, LLC\n\nBy:\n\nJames A. Bowen, Chairman",
+          "doc_id": "convertible-note-executed-1",
+          "chunk_index": 2
+        }
+      ]
+    },
+    {
+      "full_name": "James A. Bowen",
+      "role": "Chairman",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "By:\n\nJames A. Bowen, Chairman",
+          "surrounding_context": "y number of counterparts and by different\n\n---\nPage 6\n---\n\nparties on separate counterparts, each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same Note.\n\n[ Remainder of Page Intentionally Left Blank ]\n\n---\nPage 7\n---\n\nIN WITNESS WHEREOF , each of Maker and Holder has executed and delivered this Note as of the Effective Date.\n\n## MAKER :\n\n## HealthRate, Inc.\n\nBy:\n\nTim Michaels, Chief Executive Officer\n\nAddress: 734 Oriole Lane Hudson, WI 54016 Attention: Tim Michaels Email: tim@healthrate.io\n\n## HOLDER :\n\n## First Trust Capital Partners, LLC\n\nBy:\n\nJames A. Bowen, Chairman\n\nAddress: 120 East Liberty Drive, Suite 400 Wheaton, IL 60187 Attention: Jonathan Phillips Email: jonphillips@ftcapitalpartners.com",
+          "doc_id": "convertible-note-executed-1",
+          "chunk_index": 2
+        }
+      ]
+    },
+    {
+      "full_name": "Jonathan Phillips",
+      "role": null,
+      "linkedin_profiles": [],
+      "contact_information": [
+        "jonphillips@ftcapitalpartners.com"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Attention: Jonathan Phillips Email: jonphillips@ftcapitalpartners.com",
+          "surrounding_context": "each of which, when executed and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same Note.\n\n[ Remainder of Page Intentionally Left Blank ]\n\n---\nPage 7\n---\n\nIN WITNESS WHEREOF , each of Maker and Holder has executed and delivered this Note as of the Effective Date.\n\n## MAKER :\n\n## HealthRate, Inc.\n\nBy:\n\nTim Michaels, Chief Executive Officer\n\nAddress: 734 Oriole Lane Hudson, WI 54016 Attention: Tim Michaels Email: tim@healthrate.io\n\n## HOLDER :\n\n## First Trust Capital Partners, LLC\n\nBy:\n\nJames A. Bowen, Chairman\n\nAddress: 120 East Liberty Drive, Suite 400 Wheaton, IL 60187 Attention: Jonathan Phillips Email: jonphillips@ftcapitalpartners.com",
+          "doc_id": "convertible-note-executed-1",
+          "chunk_index": 2
+        }
+      ]
+    }
+  ]
+}

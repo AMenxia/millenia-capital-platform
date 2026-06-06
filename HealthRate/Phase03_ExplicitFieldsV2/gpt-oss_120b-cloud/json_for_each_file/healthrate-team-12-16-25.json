@@ -1,0 +1,472 @@
+{
+  "doc_id": "healthrate-team-12-16-25",
+  "file_name": "healthrate-team-12-16-25",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-12-16-25\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-12-16-25",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "A slide deck introducing HealthRate, a data‑driven AI‑enabled contract arbitrage platform, and presenting its leadership and advisory team.",
+  "long_summary": "The document is a PowerPoint slide deck titled HealthRate Team_12.16.25. It presents HealthRate as a data‑driven, AI‑enabled contract arbitrage platform. The deck lists the leadership team: Tim Michaels (Chief Executive Officer), Tom Sherrard (EVP, Sales & Market Development), and Jeff Sage (Chief Product Officer), providing phone numbers and email addresses for each. It also introduces the advisory board members—Bob Van Why, Geoff Bartsh, Paul Stordahl, and Mark Nathan—without contact details. The slides are marked as proprietary and confidential.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The document states the company name is HealthRate.",
+      "evidence": [
+        {
+          "quote": "HealthRate",
+          "surrounding_context": "# HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTS",
+          "doc_id": "healthrate-team-12-16-25",
+          "file_name": "healthrate-team-12-16-25",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 912,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-12-16-25\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": "healthrate.io",
+      "answer": "The document shows email addresses with the domain healthrate.io, indicating the website is healthrate.io.",
+      "evidence": [
+        {
+          "quote": "TIM@HEALTHRATE.IO",
+          "surrounding_context": "# HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "file_name": "healthrate-team-12-16-25",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 912,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-12-16-25\\file_llm_feed.md"
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "(612) 747-5927",
+        "TIM@HEALTHRATE.IO"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "TIM MICHAELS\nChief Executive Officer\n(612) 747-5927\nTIM@HEALTHRATE.IO",
+          "surrounding_context": "# HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Tom Sherrard",
+      "role": "EVP, Sales & Market Development",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "Tom@HEALTHRATE.IO"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "TOM SHERRARD\nEVP, Sales & Market Development\nTom@HEALTHRATE.IO",
+          "surrounding_context": "# HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Jeff Sage",
+      "role": "Chief Product Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "(303) 877-9067",
+        "JEFF@HEALTHRATE.IO"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "JEFF SAGE\nChief Product Officer\n(303) 877-9067\nJEFF@HEALTHRATE.IO",
+          "surrounding_context": "# HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Bob Van Why",
+      "role": "Advisory Board",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "BOB VAN WHY\nAdvisory Board",
+          "surrounding_context": "# HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Geoff Bartsh",
+      "role": "Advisory Board",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "GEOFF BARTSH\nAdvisory Board",
+          "surrounding_context": "HealthRate Team_12.16.25.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Paul Stordahl",
+      "role": "Advisory Board",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "PAUL STORDAHL\nAdvisory Board",
+          "surrounding_context": "---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Mark Nathan",
+      "role": "Advisory Board",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "MARK NATHAN\nAdvisory Board",
+          "surrounding_context": "MODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED CONTRACT ARBITRAGE\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nLeadership Team\n\nMEET THE\n\nTIM MICHAELS\n\nChief Executive Officer\n\n(612) 747-5927\n\nTIM@HEALTHRATE.IO\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nTOM SHERRARD\n\nEVP, Sales & Market Development\n\nJEFF SAGE\n\nChief Product Officer\n\n(303) 877-9067\n\nJEFF@HEALTHRATE.IO\n\n(612) 840-2908\n\nTom@HEALTHRATE.IO\n\n---\nPage 3\n---\n\nBoard of Advisors\n\nMEET THE\n\nBOB VAN WHY\n\nAdvisory Board\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nGEOFF BARTSH\n\nAdvisory Board\n\nPAUL STORDAHL\n\nAdvisory Board\n\nMARK NATHAN\n\nAdvisory Board\n\nCONFIDENTIAL\n\nAdvisory Board\n\n---\nPage 4\n---\n\nTIM MICHAELS\n\nChief Executive Officer\n\nTIM@HEALTHRATE.IO\n\n612-747-5927\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate",
+          "doc_id": "healthrate-team-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

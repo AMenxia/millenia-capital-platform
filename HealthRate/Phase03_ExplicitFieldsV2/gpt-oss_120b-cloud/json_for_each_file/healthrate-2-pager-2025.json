@@ -1,0 +1,387 @@
+{
+  "doc_id": "healthrate-2-pager-2025",
+  "file_name": "healthrate-2-pager-2025",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "HealthRate's two‑page investor pitch presents an AI‑enabled platform that instantly compares network scenarios for high‑cost medical procedures, highlights cost‑containment benefits, and lists CEO Tim Michaels with contact information.",
+  "long_summary": "The document is a two‑page investor pitch for HealthRate, an AI‑enabled platform that instantly compares network scenarios for high‑cost medical procedures such as transplants, novel therapies, complex oncology, and $1M+ claims in neonatal, musculoskeletal, and cardiology. It emphasizes data‑driven reimbursement and payment optimization, leveraging decades of domain experience, trillions of data points, advanced statistical methods, and recent AI/ML advancements to proactively identify the optimal source and cost of care. The pitch includes quantifiable results, cost‑containment figures, and a focus on transparency legislation. It lists CEO Tim Michaels as a point of contact with email TIM@HEALTHRATE.IO and phone 612‑747‑5927.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The company name is HealthRate.",
+      "evidence": [
+        {
+          "quote": "Ga HealthRate",
+          "surrounding_context": "# HealthRate 2 Pager_2025.pdf\n\n---\nPage 1\n---\n\nImage Text:\nGa HealthRate\n\n## Instantly Compare Network Scenarios for High-Cost Medical Procedures\n\nDATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION\n\nKeeping life-saving treatments and services within reach\n\n## Complex Networks Simplified with HealthRate\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nTable:\n\nSensitive Data @ Risk — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nPlatform Learning Curve — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nTurnkey with Y",
+          "doc_id": "healthrate-2-pager-2025",
+          "file_name": "healthrate-2-pager-2025",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3683,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "Instantly Compare Network Scenarios for High-Cost Medical Procedures",
+      "answer": "The one‑line description is \"Instantly Compare Network Scenarios for High‑Cost Medical Procedures\".",
+      "evidence": [
+        {
+          "quote": "Instantly Compare Network Scenarios for High-Cost Medical Procedures",
+          "surrounding_context": "# HealthRate 2 Pager_2025.pdf\n\n---\nPage 1\n---\n\nImage Text:\nGa HealthRate\n\n## Instantly Compare Network Scenarios for High-Cost Medical Procedures\n\nDATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION\n\nKeeping life-saving treatments and services within reach\n\n## Complex Networks Simplified with HealthRate\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nTable:\n\nSensitive Data @ Risk — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nPlatform Learning Curve — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nTurnkey with Your Processes — HealthRate: X; Data Providers: x; Networks: ; Captive Sol",
+          "doc_id": "healthrate-2-pager-2025",
+          "file_name": "healthrate-2-pager-2025",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3683,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": "HealthRate proactively identifies the optimal source and cost of care.",
+      "answer": "The solution described is that HealthRate proactively identifies the optimal source and cost of care.",
+      "evidence": [
+        {
+          "quote": "HealthRate proactively identifies the optimal source and cost of care.",
+          "surrounding_context": "# HealthRate 2 Pager_2025.pdf\n\n---\nPage 1\n---\n\nImage Text:\nGa HealthRate\n\n## Instantly Compare Network Scenarios for High-Cost Medical Procedures\n\nDATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION\n\nKeeping life-saving treatments and services within reach\n\n## Complex Networks Simplified with HealthRate\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nTable:\n\nSensitive Data @ Risk — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nPlatform Learning Curve — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nTurnkey with Your Processes — HealthRate: X; Data Providers: x; Networks: ; Captive Solution: X\nRisk Measurement Capable — HealthRate: x; Data Providers: X; Networks: X; Captive Solution:\nAdvanced Statistical Analysis — HealthRate: X; Data Providers: x; Networks: ; Captive Solution: x\nImmediate ROI — HealthRate: X; Data Providers: x; Networks: x; Captive Solution: x\nSupports Strategy Decisioning — HealthRate: X; Data Providers: X; Networks: X; Captive",
+          "doc_id": "healthrate-2-pager-2025",
+          "file_name": "healthrate-2-pager-2025",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3683,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md"
+        }
+      ]
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": "Built on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML",
+      "answer": "The competitive advantage is built on decades of domain experience, trillions of data points, advanced statistical methods, and recent AI/ML advancements.",
+      "evidence": [
+        {
+          "quote": "Built on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML",
+          "surrounding_context": "# HealthRate 2 Pager_2025.pdf\n\n---\nPage 1\n---\n\nImage Text:\nGa HealthRate\n\n## Instantly Compare Network Scenarios for High-Cost Medical Procedures\n\nDATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION\n\nKeeping life-saving treatments and services within reach\n\n## Complex Networks Simplified with HealthRate\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nTable:\n\nSensitive Data @ Risk — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nPlatform Learning Curve — HealthRate: X; Data Providers: x; Networks: X; Captive Solution: X\nTurnkey with Your Processes — HealthRate: X; Data Providers: x; Networks: ; Captive Solution: X\nRisk Measurement Capable — HealthRate: x; Data Providers: X; Networks: X; Captive Solution:\nAdvanced Statistical Analysis — HealthRate: X; Data Providers: x; Networks: ; Captive Solution: x\nImmediate ROI — HealthRate: X; Data Providers: x; Networks: x; Captive Solution: x\nSupports Strate",
+          "doc_id": "healthrate-2-pager-2025",
+          "file_name": "healthrate-2-pager-2025",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3683,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md"
+        }
+      ]
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "TIM@HEALTHRATE.IO",
+        "612-747-5927"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "TIM MICHAELS Chief Executive Officer",
+          "surrounding_context": "Cost Medical Procedures\n\nDATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION\n\nKeeping life-saving treatments and services within reach\n\n## Quantifiable Results\n\nWith a focus on transplants, novel therapies, complex oncology, and $1M+ claims in neonatal, musculoskeletal, and cardiology HealthRate is practical, implementable, and can be easily integrated into your existing processes and technology stack.\n\n## How much are you paying?\n\nImage Text:\n1200k\n\n1000k\n\n800k\n\n600k\n\n400k\n\n200k\n\nOk\n\nCase rate vs. allowed amount\n\nData sourced from 2002 - present day from multiple network providers spanning 140+ health systems and 300 million lives\n\nTIM MICHAELS Chief Executive Officer\n\n## COST CONTAINMENT\n\nLower your costs without the need for audit recovery, difficult negotiations or re-contracting\n\nImage Text:\n‘$2,820,000\n\n$2,320,000\n€\n5\n£ $1,820,000\nQ Fixed Cost\nF $1,320,000 ee\n€ + 5x RO!\n3 $820,000\nFa\n@\n\n$320,000\n\n($180,000) 0 s 10 a 20\n\nCases\n\nMonthlyBreakEven PerMillionMembers\n\n## The time is now\n\nTransparency legislation alone is not enough. The healthcare ecosystem continues to face challenges publishing compliant data, accessing MRF data, and most importantly applying contract, rate, and claims information to real world scenarios that provide business value.\n\nTIM@HEALTHRATE.IO\n\n612-747-5927",
+          "doc_id": "healthrate-2-pager-2025",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

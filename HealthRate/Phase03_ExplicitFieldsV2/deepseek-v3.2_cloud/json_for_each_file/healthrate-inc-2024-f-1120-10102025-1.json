@@ -1,0 +1,12 @@
+{
+  "doc_id": "healthrate-inc-2024-f-1120-10102025-1",
+  "file_name": "healthrate-inc-2024-f-1120-10102025-1",
+  "document_category": "Unknown File Type",
+  "short_summary": "Extraction failed due to JSON parsing error.",
+  "long_summary": "The extraction candidate for this document could not be parsed from the LLM response, indicating an error in the extraction process. No valid fields or key people were extracted.",
+  "final_fields": {},
+  "key_people": [],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-inc-2024-f-1120-10102025-1\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-inc-2024-f-1120-10102025-1",
+  "chunk_count": 1
+}

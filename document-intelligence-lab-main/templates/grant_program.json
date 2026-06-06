@@ -1,0 +1,34 @@
+{
+  "template_name": "grant_program",
+  "description": "Template for grants, funding programs, or opportunity documents.",
+  "fields": [
+    {
+      "name": "program_name",
+      "description": "Name of grant/program."
+    },
+    {
+      "name": "sponsor_or_agency",
+      "description": "Funding agency or sponsor."
+    },
+    {
+      "name": "eligibility",
+      "description": "Who can apply."
+    },
+    {
+      "name": "funding_amount",
+      "description": "Funding size/range."
+    },
+    {
+      "name": "deadline",
+      "description": "Deadline or important dates."
+    },
+    {
+      "name": "required_materials",
+      "description": "Application materials required."
+    },
+    {
+      "name": "evaluation_criteria",
+      "description": "How applications are reviewed."
+    }
+  ]
+}

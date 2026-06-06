@@ -1,0 +1,109 @@
+{
+  "doc_id": "healthrate-ai",
+  "file_name": "healthrate-ai",
+  "document_category": "Executive summary",
+  "short_summary": "HealthRate AI has developed an AI-driven solution to automate the interpretation and ingestion of healthcare provider contracts, addressing a manual and error-prone process.",
+  "long_summary": "The company describes its AI solution for healthcare contract management, which involves extracting text from PDFs, breaking it into chunks, interpreting terms with specialized LLMs, validating responses, loading data into a model, and including human review. They have successfully processed thousands of contracts and learned key lessons about data security, clean data, model selection, context, and task breakdown. The website is healthrate.io.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate AI",
+      "answer": "The company is named HealthRate AI.",
+      "evidence": [
+        {
+          "quote": "HealthRate AI In my first job in healthcare",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "website": {
+      "value": "healthrate.io",
+      "answer": "The company website is healthrate.io.",
+      "evidence": [
+        {
+          "quote": "Curious to learn more? Let's connect: healthrate.io.",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": "AI-driven solution specifically designed to interpret and ingest provider contracts",
+      "answer": "HealthRate AI has developed an AI-driven solution to interpret and ingest healthcare provider contracts.",
+      "evidence": [
+        {
+          "quote": "At HealthRate, we've developed an AI-driven solution specifically designed to interpret and ingest provider contracts",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "healthcare",
+      "answer": "The company operates in the healthcare sector, focusing on provider contract management.",
+      "evidence": [
+        {
+          "quote": "Today, the healthcare landscape has evolved",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "interpret and ingest provider contracts",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "Manual data entry and complexity in interpreting provider contracts",
+      "answer": "The problem addressed is the slow, meticulous, complex, time-consuming, and error-prone nature of manually entering and interpreting provider contracts.",
+      "evidence": [
+        {
+          "quote": "hours manually entering provider contracts into TriZetto FACETS, term by term, from paper documents. It was a slow, meticulous process",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "interpret and ingest provider contracts, a task that's historically been complex, time-consuming, and error-prone.",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "AI-driven solution to interpret and ingest provider contracts using LLMs and human review",
+      "answer": "The solution is an AI-driven process that extracts text from PDFs, breaks it into chunks, interprets terms with LLMs, validates responses, loads data into a model, and includes human review.",
+      "evidence": [
+        {
+          "quote": "At HealthRate, we've developed an AI-driven solution specifically designed to interpret and ingest provider contracts. Here's how it works: - Extract text from PDFs : We start by pulling text out of provider contract PDFs. - Break text into manageable chunks : The extracted text is divided into smaller, digestible sections. - Interpret contract terms with LLMs : These chunks are processed by specialized Large Language Model (LLM) functions, each tailored to interpret a single contract term. - Validate responses : The outputs are carefully validated for accuracy. - Load into our data model : The validated data is then integrated into our data model. - Human-in-the-loop review : Finally, a human review step ensures quality and precision.",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "product_status": {
+      "value": "Successfully interpreted and ingested thousands of provider contracts",
+      "answer": "The product has been proven effective by processing thousands of provider contracts.",
+      "evidence": [
+        {
+          "quote": "This approach has proven its value. We've successfully interpreted and ingested thousands of provider contracts",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ai\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ai",
+  "chunk_count": 1
+}

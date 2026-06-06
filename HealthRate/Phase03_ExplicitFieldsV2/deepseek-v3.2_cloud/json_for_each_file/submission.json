@@ -1,0 +1,84 @@
+{
+  "doc_id": "submission",
+  "file_name": "submission",
+  "document_category": "Patent / IP summary",
+  "short_summary": "USPTO submission receipt for a patent application by HealthRate Inc.",
+  "long_summary": "Document is a receipt from the USPTO for a utility-provisional patent application (Application # 63/707,441) filed on 10/15/2024 by Jeff Sage, with Tim Michaels as the first named inventor, and correspondence address for HealthRate Inc in Carson City, NV.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate Inc",
+      "answer": "HealthRate Inc",
+      "evidence": [
+        {
+          "quote": "Correspondence address: HealthRate Inc, 701 S. Carson St Suite 200, Carson City, NV 89701, US.",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "headquarters_location": {
+      "value": "701 S. Carson St Suite 200, Carson City, NV 89701, US",
+      "answer": "701 S. Carson St Suite 200, Carson City, NV 89701, US",
+      "evidence": [
+        {
+          "quote": "Correspondence address: HealthRate Inc, 701 S. Carson St Suite 200, Carson City, NV 89701, US.",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "trademarks_patents": {
+      "value": "Utility-Provisional Application under 35 USC 111(b), Application # 63/707,441, Confirmation # 1561, Patent Center # 67575019",
+      "answer": "HealthRate Inc has filed a utility-provisional patent application (Application # 63/707,441) with the USPTO.",
+      "evidence": [
+        {
+          "quote": "Application Type: Utility‑Provisional Application under 35 USC 111(b); Confirmation #: 1561; Filed by: Jeff Sage; Patent Center #: 67575019; First named inventor: Tim Michaels; Correspondence address: HealthRate Inc, 701 S. Carson St Suite 200, Carson City, NV 89701, US.",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Jeff Sage",
+      "role": "Filed by",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Filed by: Jeff Sage",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Tim Michaels",
+      "role": "First named inventor",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "First named inventor: Tim Michaels",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  ],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\submission\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\submission",
+  "chunk_count": 1
+}

@@ -1,0 +1,192 @@
+{
+  "doc_id": "h25-emerge-himss-healthrate-presentation",
+  "file_name": "h25-emerge-himss-healthrate-presentation",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "HealthRate is a SaaS platform that optimizes pricing for high-cost healthcare claims using AI and domain expertise.",
+  "long_summary": "HealthRate.io is an award-winning SaaS platform designed to help payers and other at-risk entities save money on high-cost claims through price arbitrage. It uses proprietary AI, advanced actuarial expertise, and decades of data to identify cost-saving opportunities. The business model is a monthly subscription based on the number of lives supported. The CEO is Tim Michaels, who has extensive experience in healthcare.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "HealthRate is the company name.",
+      "evidence": [
+        {
+          "quote": "Tim is the Founder and CEO of HealthRate",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "website": {
+      "value": "www.healthrate.io",
+      "answer": "Company website is www.healthrate.io.",
+      "evidence": [
+        {
+          "quote": "Login to www.healthrate.io and begin saving!",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": "HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims",
+      "answer": "HealthRate is a SaaS platform for pricing optimization in healthcare claims.",
+      "evidence": [
+        {
+          "quote": "HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "Healthcare",
+      "answer": "Industry is healthcare, focusing on claims pricing.",
+      "evidence": [
+        {
+          "quote": "provides payers the best pricing for high-cost claims",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "Price irrationality in high-cost healthcare claims",
+      "answer": "Addresses irrational pricing in healthcare claims.",
+      "evidence": [
+        {
+          "quote": "HealthRate.io – Turning Price Irrationality into Dollars",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "SaaS platform that provides payers the best pricing for high-cost claims through advanced analytics and AI",
+      "answer": "Provides a SaaS platform for cost containment and decision support in healthcare claims.",
+      "evidence": [
+        {
+          "quote": "HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "business_model": {
+      "value": "Monthly SaaS subscription model",
+      "answer": "Business model is SaaS subscription based on number of lives supported.",
+      "evidence": [
+        {
+          "quote": "Pricing is available on a monthly SaaS subscription model and is primarily based on the number of lives supported",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "target_customers": {
+      "value": [
+        "Payers",
+        "At Risk Providers",
+        "Employers",
+        "Stop Loss Providers",
+        "Reinsurance",
+        "3RD Party Service Providers"
+      ],
+      "answer": "Target customers include payers, providers, employers, and other financially at-risk entities.",
+      "evidence": [
+        {
+          "quote": "Payers, At Risk Providers, Employers, Stop Loss Providers, Reinsurance, 3RD Party Service Providers",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": "Specialty contracting expertise, legislative changes, advanced actuarial expertise, proprietary AI, and decades of data",
+      "answer": "Competitive advantage includes domain expertise, AI, and data analytics.",
+      "evidence": [
+        {
+          "quote": "Specialty Contracting Expertise + Legislative Changes",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Proprietary Artificial Intelligence(AI) to ingest and process payment terms",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "product_status": {
+      "value": "Award-Winning SaaS platform, operational",
+      "answer": "Product is an award-winning SaaS platform currently available.",
+      "evidence": [
+        {
+          "quote": "HealthRate is an Award-Winning SaaS platform",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "ip_ownership": {
+      "value": "Proprietary AI and algorithms",
+      "answer": "IP includes proprietary AI and algorithms.",
+      "evidence": [
+        {
+          "quote": "Proprietary Artificial Intelligence(AI) to ingest and process payment terms",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "regulatory_exposure": {
+      "value": "HIPAA compliance considered",
+      "answer": "Regulatory exposure includes healthcare regulations like HIPAA.",
+      "evidence": [
+        {
+          "quote": "contains no HIPAA data",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [
+        "Led formation and operations of public and private companies",
+        "Strategic advisor to healthcare organizations",
+        "Served on governance boards"
+      ],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Tim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development. Prior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards.",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  ],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\h25-emerge-himss-healthrate-presentation\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\h25-emerge-himss-healthrate-presentation",
+  "chunk_count": 1
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+runs/
+Millenia-Dossier/runs/
+_revert_backups/
+.venv/
+venv/

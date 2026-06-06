@@ -1,0 +1,199 @@
+{
+  "doc_id": "healthrate-ehir-final",
+  "file_name": "healthrate-ehir-final",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "HealthRate is a SaaS platform that uses AI and data to optimize reimbursement and payment for high-cost healthcare claims, targeting providers and payers.",
+  "long_summary": "HealthRate is an award-winning SaaS platform that provides pricing optimization for high-cost healthcare claims. It uses decades of domain experience, trillions of data points, advanced statistical methods, and AI/ML to proactively identify the optimal source and cost of care. The platform is unbiased, independent, and requires no patient intervention or claims auditing. It has case studies with major health systems like Ohio State University Medical Center, showing significant savings. The company has been nominated for HealthcareMN 2024 Start Up of the Year and won HIMSS 2025 Best In Show Payer Analytics. The CTO is Jeff Sage.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "Company name is HealthRate",
+      "evidence": [
+        {
+          "quote": "HealthRate",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "website": {
+      "value": "www.healthrate.io",
+      "answer": "Company website is www.healthrate.io",
+      "evidence": [
+        {
+          "quote": "Login to www.healthrate.io",
+          "page_start": 9,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": "An Award-Winning* SaaS platform that provides the best pricing for high-cost claims",
+      "answer": "HealthRate is an award-winning SaaS platform that provides the best pricing for high-cost claims",
+      "evidence": [
+        {
+          "quote": "An Award-Winning* SaaS platform that provides the best pricing for high-cost claims",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "Healthcare",
+      "answer": "Company operates in the healthcare sector, specifically in payer analytics and reimbursement optimization",
+      "evidence": [
+        {
+          "quote": "HIMSS 2025 Best In Show Payer Analytics, HealthcareMN 2024 Start Up of the Year Nominee",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": "Startup",
+      "answer": "Company is a startup, nominated for Startup of the Year",
+      "evidence": [
+        {
+          "quote": "HealthcareMN 2024 Start Up of the Year Nominee",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "High-cost claims in healthcare",
+      "answer": "Company addresses the problem of high-cost healthcare claims",
+      "evidence": [
+        {
+          "quote": "provides the best pricing for high-cost claims",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "A SaaS platform that uses data, AI, and expertise to identify the optimal source and cost of care for high-cost claims",
+      "answer": "HealthRate is a SaaS platform that uses data, AI, and expertise to proactively identify the optimal source and cost of care for high-cost claims",
+      "evidence": [
+        {
+          "quote": "An Award-Winning* SaaS platform that provides the best pricing for high-cost claims",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "HealthRate proactively identifies the optimal source and cost of care.",
+          "page_start": 3,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": "Unbiased, independent, and built on decades of domain experience, trillions of data points, advanced statistical methods, and AI/ML",
+      "answer": "HealthRate is not a transparency data provider or patient navigation solution, maintains independence, and is built on decades of domain experience, trillions of data points, advanced statistical methods, and AI/ML",
+      "evidence": [
+        {
+          "quote": "We are NOT a transparency data provider and we are NOT a patient navigation or COE solution",
+          "page_start": 4,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "We maintain complete independence and objectivity and do not accept external compensation",
+          "page_start": 4,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Built on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML",
+          "page_start": 3,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "product_status": {
+      "value": "In market with case studies",
+      "answer": "Platform is in market with case studies showing savings for healthcare providers",
+      "evidence": [
+        {
+          "quote": "Ohio State University Medical Center: Confidential #2\n‘171000\n(Ohio State University Medical Center: Conientia #3",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "[Major US Health System] – Multiple Organ\nCOST ANALYSIS & RECOMMENDATION",
+          "page_start": 6,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "key_milestones": {
+      "value": [
+        "HIMSS 2025 Best In Show Payer Analytics",
+        "HealthcareMN 2024 Start Up of the Year Nominee"
+      ],
+      "answer": "Company has won HIMSS 2025 Best In Show Payer Analytics and was nominated for HealthcareMN 2024 Start Up of the Year",
+      "evidence": [
+        {
+          "quote": "HIMSS 2025 Best In Show Payer Analytics, HealthcareMN 2024 Start Up of the Year Nominee",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "target_customers": {
+      "value": "Healthcare providers and payers",
+      "answer": "Target customers include healthcare providers (like Ohio State University Medical Center) and payers (as indicated by payer analytics award)",
+      "evidence": [
+        {
+          "quote": "Ohio State University Medical Center",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "HIMSS 2025 Best In Show Payer Analytics",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Jeff Sage",
+      "role": "Chief Technology Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "jeff@healthrate.io",
+        "303-877-9067"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "JEFF SAGE\nChief Technology Officer\nJEFF@HEALTHRATE.IO\n303-877-9067",
+          "page_start": 8,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  ],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final",
+  "chunk_count": 1
+}

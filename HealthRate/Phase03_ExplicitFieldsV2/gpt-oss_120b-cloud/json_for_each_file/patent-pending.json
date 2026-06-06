@@ -1,0 +1,386 @@
+{
+  "doc_id": "patent-pending",
+  "file_name": "patent-pending",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending",
+  "document_category": "Patent / IP summary",
+  "short_summary": "A provisional utility patent filing (Application #63/707,441) for the HealthRate Institution Index was submitted on 10/15/2024 by inventor Tim Michaels, filed by Jeff Sage on behalf of HealthRate Inc, with the correspondence address 701 S. Carson St Suite 200, Carson City, NV 89701.",
+  "long_summary": "The document is an electronic acknowledgement receipt from the United States Patent and Trademark Office confirming the filing of a Utility-Provisional patent application (Application #63/707,441) on October 15, 2024. The invention, titled \"HealthRate Institution Index,\" describes a method for determining the relative Provider Price Index across U.S. health systems. The filing lists Tim Michaels as the inventor, Jeff Sage as the filing representative, and HealthRate Inc as the applicant with its headquarters at 701 S. Carson St Suite 200, Carson City, NV 89701. The application type is identified as Utility-Provisional.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate Inc",
+      "answer": "The documents list HealthRate Inc as the applicant/company name.",
+      "evidence": [
+        {
+          "quote": "CORRESPONDENCE HealthRate Inc",
+          "surrounding_context": "D STATES P.O. Box 1450\nPATENT AND TRADEMARK OFFICE Alexandria, VA 22313-1450\nwww.uspto.gov\n\nELECTRONIC ACKNOWLEDGEMENT RECEIPT\n\nAPPLICATION # RECEIPT DATE / TIME ATTORNEY DOCKET #\n63/707,441 10/15/2024 3:01:38 PMETs-\n\nTitle of Invention\n\nThis capability is referred to as the HealthRate Institution Index. A method and\nprocess for determining the relative Provider Price Index across United States-\nbased Health Systems.\n\nApplication Information\n\nAPPLICATION TYPE Utility -Provisional PATENT #\nApplication under 35 USC\n111(b)\n\nCONFIRMATION # 1561 FILED BY Jeff Sage\nPATENT CENTER # 67575019 FILING DATE\nCUSTOMER # # FIRST NAMED Tim Michaels\nINVENTOR\nCORRESPONDENCE HealthRate Inc AUTHORIZED BY -\nADDRESS 701 S. Carson St\nSuite 200\n\nCarson City, NV89701\n_US_\n\n---\nPage 2\n---\n\nConfirmation#\n\n1561\n\nPatent center#\n\n67575019\n\nAPPLICATION#\n\nRECEIPTDATE/TIME\n\nATTORNEYDOCKET#\n\n63/707,441\n\n10/15/20243:01:38PMET\n\nAPPLICATIONTYPE\n\nUtility-ProvisionalApplication\n\nunder35USC111(b)\n\nImage Text:\ng Your payment has been received by the USPTO\n\nApplication # Confirmation # Patent center # Received\n63/707,441 1561 67575019 10/15/\nPayment receipt\n\nPrint © — Saveas...\n\nUNITED STATES P.O. Box 1450\nPATENT AND TRADEMARK OFFICE Alexandria, VA 22313-1450\n\nwww.uspto.gov\n\nELECTRONIC PAYMENT RECEIPT\n\nAPPLICATION # RECEIPT DATE / TIME ATTORNEY DOCK",
+          "doc_id": "patent-pending",
+          "file_name": "patent-pending",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2253,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": "701 S. Carson St Suite 200, Carson City, NV 89701",
+      "answer": "The correspondence address listed for HealthRate Inc is 701 S. Carson St Suite 200, Carson City, NV 89701.",
+      "evidence": [
+        {
+          "quote": "ADDRESS 701 S. Carson St Suite 200 Carson City.NV89701",
+          "surrounding_context": "# Patent Pending.pdf\n\n---\nPage 1\n---\n\nAPPLICATION#\n\nRECEIPTDATE/TIME\n\nATTORNEYDOCKET#\n\n63/707,441\n\n10/15/20243:01:38PMET\n\nAPPLICATIONTYPE\n\nUtility-Provisional\n\nPATENT#\n\nApplicationunder35USC\n\n111(b)\n\nCONFIRMATION#\n\n1561\n\nFILEDBY\n\nJeff Sage\n\nPATENTCENTER#\n\n67575019\n\nFILING DATE\n\nCUSTOMER#\n\nFIRSTNAMED INVENTOR\n\nTim Michaels\n\nCORRESPONDENCE\n\nHealthRate Inc\n\nAUTHORIZEDBY\n\nADDRESS\n\n701S.Carson St\n\nSuite200\n\nCars0n City.NV89701\n\nImage Text:\nApplication # Confirmation # Patent center # Received\n\n63/707,441 1561 67575019 10/15\n\nSubmission receipt Print & Sema Saveas...\n\nUNITED STATES P.O. Box 1450\nPATENT AND TRADEMARK OFFICE Alexandria, VA 22313-1450\nwww.uspto.gov\n\nELECTRONIC ACKNOWLEDGEMENT RECEIPT\n\nAPPLICATION # RECEIPT DATE / TIME ATTORNEY DOCKET #\n63/707,441 10/15/2024 3:01:38 PMETs-\n\nTitle of Invention\n\nThis capability is referred to as the HealthRate Institution Index. A method and\nprocess for determining the relative Provider Price Index across United States-\nbased Health Systems.\n\nApplication Information\n\nAPPLICATION TYPE Utility -Provisional PATENT #\nApplication under 35 USC\n111(b)\n\nCONFIRMATION # 1561 FILED BY Jeff Sage\nPATENT CENTER # 67575019 FILING DATE\nCUSTOMER # # FIRST NAMED Tim Michaels\nINVENTOR\nCORRESPONDENCE HealthRate Inc AUTHORIZED BY -\nADDRESS 701 S. Carson St\nSuite\n...[truncated]",
+          "doc_id": "patent-pending",
+          "file_name": "patent-pending",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2253,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md"
+        }
+      ]
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": "Utility-Provisional",
+      "answer": "The application type is identified as Utility-Provisional.",
+      "evidence": [
+        {
+          "quote": "APPLICATION TYPE Utility-Provisional",
+          "surrounding_context": "# Patent Pending.pdf\n\n---\nPage 1\n---\n\nAPPLICATION#\n\nRECEIPTDATE/TIME\n\nATTORNEYDOCKET#\n\n63/707,441\n\n10/15/20243:01:38PMET\n\nAPPLICATIONTYPE\n\nUtility-Provisional\n\nPATENT#\n\nApplicationunder35USC\n\n111(b)\n\nCONFIRMATION#\n\n1561\n\nFILEDBY\n\nJeff Sage\n\nPATENTCENTER#\n\n67575019\n\nFILING DATE\n\nCUSTOMER#\n\nFIRSTNAMED INVENTOR\n\nTim Michaels\n\nCORRESPONDENCE\n\nHealthRate Inc\n\nAUTHORIZEDBY\n\nADDRESS\n\n701S.Carson St\n\nSuite200\n\nCars0n City.NV89701\n\nImage Text:\nApplication # Confirmation # Patent center # Received\n\n63/707,441 1561 67575019 10/15\n\nSubmission receipt Print & Sema Saveas...\n\nUNITED STATES P.O. Box 1450\nPATENT AND TRADEMARK OFFICE Alexandria, VA 22313-1450\nwww.uspto.gov\n\nELECTRONIC ACKNOWLEDGEMENT RECEIPT\n\nAPPLICATION # RECEIPT DATE / TIME ATTORNEY DOCKET #\n63/707,441 10/15/2024 3:01:38 PMETs-\n\nTitle of Inventi",
+          "doc_id": "patent-pending",
+          "file_name": "patent-pending",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2253,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md"
+        }
+      ]
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [
+        "HealthRate Institution Index (Utility-Provisional application)"
+      ],
+      "answer": "- HealthRate Institution Index (Utility-Provisional application)",
+      "evidence": [
+        {
+          "quote": "Title of Invention This capability is referred to as the HealthRate Institution Index",
+          "surrounding_context": "# Patent Pending.pdf\n\n---\nPage 1\n---\n\nAPPLICATION#\n\nRECEIPTDATE/TIME\n\nATTORNEYDOCKET#\n\n63/707,441\n\n10/15/20243:01:38PMET\n\nAPPLICATIONTYPE\n\nUtility-Provisional\n\nPATENT#\n\nApplicationunder35USC\n\n111(b)\n\nCONFIRMATION#\n\n1561\n\nFILEDBY\n\nJeff Sage\n\nPATENTCENTER#\n\n67575019\n\nFILING DATE\n\nCUSTOMER#\n\nFIRSTNAMED INVENTOR\n\nTim Michaels\n\nCORRESPONDENCE\n\nHealthRate Inc\n\nAUTHORIZEDBY\n\nADDRESS\n\n701S.Carson St\n\nSuite200\n\nCars0n City.NV89701\n\nImage Text:\nApplication # Confirmation # Patent center # Received\n\n63/707,441 1561 67575019 10/15\n\nSubmission receipt Print & Sema Saveas...\n\nUNITED STATES P.O. Box 1450\nPATENT AND TRADEMARK OFFICE Alexandria, VA 22313-1450\nwww.uspto.gov\n\nELECTRONIC ACKNOWLEDGEMENT RECEIPT\n\nAPPLICATION # RECEIPT DATE / TIME ATTORNEY DOCKET #\n63/707,441 10/15/2024 3:01:38 PMETs-\n\nTitle of Invention\n\nThis capability is referred to as the HealthRate Institution Index. A method and\nprocess for determining the relative Provider Price Index across United States-\nbased Health Systems.\n\nApplication Information\n\nAPPLICATION TYPE Utility -Provisional PATENT #\nApplication under 35 USC\n111(b)\n\nCONFIRMATION # 1561 FILED BY Jeff Sage\nPATENT CENTER # 67575019 FILING DATE\nCUSTOMER # # FIRST NAMED Tim Michaels\nINVENTOR\nCORRESPONDENCE HealthRate Inc AUTHORIZED BY -\nADDRESS 701 S. Carson St\nSuite\n...[truncated]",
+          "doc_id": "patent-pending",
+          "file_name": "patent-pending",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2253,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md"
+        }
+      ]
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Inventor",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "FIRST NAMED Tim Michaels INVENTOR",
+          "surrounding_context": "# Patent Pending.pdf\n\n---\nPage 1\n---\n\nAPPLICATION#\n\nRECEIPTDATE/TIME\n\nATTORNEYDOCKET#\n\n63/707,441\n\n10/15/20243:01:38PMET\n\nAPPLICATIONTYPE\n\nUtility-Provisional\n\nPATENT#\n\nApplicationunder35USC\n\n111(b)\n\nCONFIRMATION#\n\n1561\n\nFILEDBY\n\nJeff Sage\n\nPATENTCENTER#\n\n67575019\n\nFILING DATE\n\nCUSTOMER#\n\nFIRSTNAMED INVENTOR\n\nTim Michaels\n\nCORRESPONDENCE\n\nHealthRate Inc\n\nAUTHORIZEDBY\n\nADDRESS\n\n701S.Carson St\n\nSuite200\n\nCars0n City.NV89701\n\nImage Text:\nApplication # Confirmation # Patent center # Received\n\n63/707,441 1561 67575019 10/15\n\nSubmission receipt Print & Sema Saveas...\n\nUNITED STATES P.O. Box 1450\nPATENT AND TRADEMARK OFFICE Alexandria, VA 22313-1450\nwww.uspto.gov\n\nELECTRONIC ACKNOWLEDGEMENT RECEIPT\n\nAPPLICATION # RECEIPT DATE / TIME ATTORNEY DOCKET #\n63/707,441 10/15/2024 3:01:38 PMETs-\n\nTitle of Invention\n\nThis capability is referred to as the HealthRate Institution Index. A method and\nprocess for determining the relative Provider Price Index across United States-",
+          "doc_id": "patent-pending",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "doc_id": "srtr-screenshot",
+  "file_name": "srtr-screenshot",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-screenshot\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-screenshot",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "Slide from SRTR screenshot displaying various cost and savings percentages, case rate, facility rate, biologic rate, outlier charge thresholds, minimum payment provision, per diem, and other core service cost metrics.",
+  "long_summary": "The document is a screenshot of a slide from SRTR that presents detailed financial metrics related to service costs. It includes percentages for cost and savings, case rate, facility rate, biologic rate, outlier charge thresholds, minimum payment provision, per diem, and other core service cost metrics. The slide appears to be part of a pitch or investor deck providing insight into pricing structures and potential financial performance.",
+  "final_fields": {
+    "company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": []
+}

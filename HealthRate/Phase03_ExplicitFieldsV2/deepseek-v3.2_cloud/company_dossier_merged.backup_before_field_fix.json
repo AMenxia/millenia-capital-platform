@@ -1,0 +1,1124 @@
+{
+  "short_summary": "HealthRate is a pre-seed SaaS startup that provides an independent platform for comparing and procuring real-time network pricing for high-cost healthcare claims, using AI and data analytics to address price irrationality. It has raised $1M, has a product in production, and a $9M+ pipeline.",
+  "long_summary": "HealthRate, Inc. is a Nevada corporation operating in the healthcare pricing and analytics sector. The company addresses the problem of price irrationality and massive variance in high-cost healthcare claims by offering an independent SaaS platform that compares and procures real-time network pricing. The business model is B2B SaaS subscription, targeting payers, TPAs, employers, and other at-risk entities. Key competitive advantages include structural moat due to independence, proprietary AI, and domain expertise. The product is in production with customers, and the company has achieved milestones such as raising $1M pre-seed, winning HIMSS Best in Show, signing the first customer, and building a $9M+ pipeline. Financials include 87% gross margins, $800K annual burn rate, and a TAM of $500M-$1.8B. The team is led by CEO Tim Michaels, with key members including Jeff Sage as CTO and Tom Sherrard as EVP Sales, supported by an advisory board of industry experts.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "- The company is named HealthRate, as indicated in multiple documents.",
+      "evidence": [
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "HealthRate, Inc.",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Tim is the Founder and CEO of HealthRate",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "m8 HealthRate",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": "HealthRate, Inc., a Nevada corporation",
+      "answer": "- The legal company name is HealthRate, Inc., a Nevada corporation.",
+      "evidence": [
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "HealthRate, Inc., a Nevada corporation",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "note-purchase-agreement-executed-1",
+          "file_name": "note-purchase-agreement-executed-1",
+          "quote": "HealthRate, Inc., a Nevada corporation",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "website": {
+      "value": "www.healthrate.io",
+      "answer": "- The company website is www.healthrate.io.",
+      "evidence": [
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Login to www.healthrate.io and begin saving!",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "www.healthrate.io",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "quote": "Login to www.healthrate.io",
+          "page_start": 9,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility",
+      "answer": "- HealthRate is an independent platform for real-time pricing comparison and procurement of high-cost healthcare claims.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "Healthcare pricing and analytics",
+      "answer": "- The company operates in the healthcare sector, specifically in data-driven, AI-enabled reimbursement and payment optimization.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-2-pager-2025",
+          "file_name": "healthrate-2-pager-2025",
+          "quote": "DATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "high-cost healthcare claims",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": "Pre-seed startup with product in production",
+      "answer": "- The company is at the pre-seed stage with a production product and initial traction.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed), built production product",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "headquarters_location": {
+      "value": "701 South Carson St Ste 200 Carson City, NV 89701",
+      "answer": "- The headquarters is listed as Carson City, NV in recent documents, but earlier documents show Hudson, WI, indicating a possible change.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-national-single-organ-network-reference-guide",
+          "file_name": "healthrate-national-single-organ-network-reference-guide",
+          "quote": "HealthRate, Inc. 701 South Carson St Ste 200 Carson City, NV 89701",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "patent-pending",
+          "file_name": "patent-pending",
+          "quote": "ADDRESS 701 S. Carson St Suite 200 Carson City, NV89701",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "incorporation_location": {
+      "value": "Nevada",
+      "answer": "- The company is incorporated in the state of Nevada.",
+      "evidence": [
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "a Nevada corporation",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "legal_entity_structure": {
+      "value": "corporation",
+      "answer": "- The legal entity structure is a Nevada corporation.",
+      "evidence": [
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "a Nevada corporation",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "Price irrationality and massive variance in high-cost healthcare claims",
+      "answer": "- The problem addressed is price irrationality and extreme pricing volatility in healthcare claims.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Turning Price Irrationality Into Dollars",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "massive price variance across transplants, oncology, CGT, and other million-dollar cases",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "Independent platform for comparing and procuring real-time network pricing",
+      "answer": "- The solution is an independent platform to compare and procure real-time network pricing for healthcare claims.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "business_model": {
+      "value": "B2B SaaS subscription model",
+      "answer": "- The business model is B2B SaaS infrastructure for enterprises, with pricing based on monthly subscriptions or percentage of savings.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "B2B SaaS infrastructure enterprise platform",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Pricing is available on a monthly SaaS subscription model and is primarily based on the number of lives supported",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "target_customers": {
+      "value": [
+        "Payers",
+        "TPAs",
+        "employers",
+        "self-funded plans",
+        "At Risk Providers",
+        "Stop Loss Providers",
+        "Reinsurance",
+        "3RD Party Service Providers"
+      ],
+      "answer": "- Target customers include payers, TPAs, employers, self-funded plans, and other financially at-risk entities.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "payers",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "employers and TPAs",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Payers, At Risk Providers, Employers, Stop Loss Providers, Reinsurance, 3RD Party Service Providers",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": "Structural moat due to independence and zero carrier alignment, proprietary AI, and domain expertise",
+      "answer": "- Competitive advantage comes from independence and no conflicts of interest, unlike carriers, along with proprietary AI and extensive domain experience.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "HealthRate has zero carrier alignment, giving us a permanent defensibility advantage",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Proprietary Artificial Intelligence(AI) to ingest and process payment terms",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "product_status": {
+      "value": "Product in production with customers and a $9M+ pipeline",
+      "answer": "- The product is already in production and being used by customers, with a pipeline of over $9M in annual recurring revenue.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Product in production with customers",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Pipeline ARR: $9M+",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "use_of_funds": {
+      "value": "Close current pipeline & expand sales (40%), Scale platform, compliance features, and integrations (30%), Data ingestion & actuarial modeling expansion (15%), Operations & customer success (15%)",
+      "answer": "- Use of proceeds will be allocated to sales expansion, platform scaling, data ingestion, and operations.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Close current pipeline & expand sales (40%)",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Scale platform, compliance features, and integrations (30%)",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Data ingestion & actuarial modeling expansion (15%)",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Operations & customer success (15%)",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "key_milestones": {
+      "value": [
+        "Raised $1M pre-seed",
+        "Built production product",
+        "Won HIMSS Best in Show",
+        "Signed first customer",
+        "Built $9M+ pipeline"
+      ],
+      "answer": "- Key milestones include raising $1M pre-seed, building the product, winning HIMSS award, signing the first customer, and building a $9M+ pipeline.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "funding_milestones": {
+      "value": [
+        {
+          "event": "Convertible note issuance",
+          "amount": "$500,000.00",
+          "date": "August 30, 2024"
+        },
+        {
+          "event": "Pre-seed round",
+          "amount": "$1,000,000.00"
+        }
+      ],
+      "answer": "- Funding milestones include a $500,000 convertible note issued on August 30, 2024, and a $1M pre-seed round from First Trust Capital Partners.",
+      "evidence": [
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "$500,000.00",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "August 30, 2024",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed)",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "amount_raised_to_date": {
+      "value": "$1,000,000",
+      "answer": "- Total capital raised to date is $1M.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed)",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "previous_investors": {
+      "value": "First Trust Capital Partners",
+      "answer": "- Previous investor is First Trust Capital Partners.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed)",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "revenue_monthly_annual": {
+      "value": {
+        "pipeline_arr": "$9,000,000+",
+        "projected_annual_revenue": "$9,276,000"
+      },
+      "answer": "- Revenue is indicated by pipeline annual recurring revenue of over $9M, with projections of $9.276M in annual revenue.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Pipeline ARR: $9M+",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "2026-proforma-draft",
+          "file_name": "2026-proforma-draft",
+          "quote": "SaaS Subscriptions — Revenue: 0, 11,000, 185,000, 540,000, 630,000, 1,130,000, 1,130,000, 1,130,000, 1,130,000, 1,130,000, 1,130,000, 1,130,000, 9,276,000",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "mrr_arr": {
+      "value": "ARR: $9,000,000+",
+      "answer": "- Annual recurring revenue is over $9M from pipeline.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Pipeline ARR: $9M+",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "gross_margin": {
+      "value": "87%",
+      "answer": "- Gross margins are 87%.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "87% gross margins",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "burn_rate": {
+      "value": "$800,000 annual",
+      "answer": "- Annual burn rate is $800K.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Annual burn: $800K",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "sales_pipeline": {
+      "value": "$9,000,000+ pipeline ARR across major blue plans, regional payers, and TPAs",
+      "answer": "- Sales pipeline has annual recurring revenue of over $9M across various payers and TPAs.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Pipeline ARR: $9M+ across major blue plans, regional payers, and TPAs",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "contracts_signed": {
+      "value": [
+        "First customer signed",
+        "Multiple deals in late-stage contracting",
+        "ERISA Litigation Fees contract sold",
+        "MVP verbally sold"
+      ],
+      "answer": "- Contracts signed include the first customer, multiple deals in late-stage contracting, ERISA Litigation Fees sold, and MVP verbally sold.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "signed first customer",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Multiple deals are in late-stage contracting with 30 -90 day close timelines",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "2026-proforma-draft",
+          "file_name": "2026-proforma-draft",
+          "quote": "Description: ERISA Litigation Fees (Confidential) - SOLD; Month1: 1,000; Month2: 1,000; Month3: 10,000; Month4: 10,000; Month5: 10,000; Month6: 10,000; Month7: 10,000; Month8: 10,000; Month9: 10,000; Month10: 10,000; Month11: 10,000; Month12: 10,000; Subtotal: 102,000",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "2026-proforma-draft",
+          "file_name": "2026-proforma-draft",
+          "quote": "Description: MVP - VERBALLY SOLD; Month3: 75,000; Month4: 75,000; Month5: 75,000; Month6: 75,000; Month7: 75,000; Month8: 75,000; Month9: 75,000; Month10: 75,000; Month11: 75,000; Month12: 75,000; Subtotal: 750,000",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "partnerships": {
+      "value": [
+        "Expert witness engagement with major law firm",
+        "Integration with Scientific Registry of Transplant Recipients (SRTR)"
+      ],
+      "answer": "- Partnerships include an expert witness engagement with a major law firm and integration with SRTR for quality data.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Expert witness signed engagement with major law firm recruiting plaintiffs",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "quote": "HealthRate is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data.",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "incorporation_documents": {
+      "value": "The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada.",
+      "answer": "- Company is incorporated in Nevada and in good standing.",
+      "evidence": [
+        {
+          "doc_id": "note-purchase-agreement-executed-1",
+          "file_name": "note-purchase-agreement-executed-1",
+          "quote": "The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "ip_ownership": {
+      "value": "Proprietary AI, algorithms, and patent pending HealthRate Institutional Index",
+      "answer": "- Intellectual property includes proprietary AI and algorithms, and a patent pending index for healthcare cost comparison.",
+      "evidence": [
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Proprietary Artificial Intelligence(AI) to ingest and process payment terms",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "quote": "The HealthRate Institutional Index is a patent pending price index that has been developed by normalizing a common basket of relevant services across medical centers.",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "trademarks_patents": {
+      "value": "Provisional patent #63/707,441 for the HealthRate Institutional Index",
+      "answer": "- The company holds a provisional patent for the HealthRate Institutional Index.",
+      "evidence": [
+        {
+          "doc_id": "patent-pending",
+          "file_name": "patent-pending",
+          "quote": "APPLICATION # 63/707,441 RECEIPT DATE / TIME 10/15/2024 3:01:38 PM ET APPLICATION TYPE Utility - Provisional Application under 35 USC 111(b)",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "regulatory_exposure": {
+      "value": "HIPAA compliance considered and ERISA fiduciary exposure post-Cornell ruling",
+      "answer": "- Regulatory exposure includes healthcare regulations like HIPAA and ERISA fiduciary obligations due to recent rulings.",
+      "evidence": [
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "contains no HIPAA data",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "protecting employers and TPAs from postCornell ERISA fiduciary exposure",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "risk_disclosures": {
+      "value": "HealthRate.io does not guarantee the accuracy, completeness, timeliness, or reliability of information in its documents, and there are no pending litigation or investigations.",
+      "answer": "- Risk disclosures include disclaimers on data accuracy and statements of no material litigation.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-national-single-organ-network-reference-guide",
+          "file_name": "healthrate-national-single-organ-network-reference-guide",
+          "quote": "HealthRate.io does not guarantee the accuracy, completeness, timeliness, or reliability of this information.",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "note-purchase-agreement-executed-1",
+          "file_name": "note-purchase-agreement-executed-1",
+          "quote": "There is no claim, action, suit, proceeding, arbitration, complaint, charge or investigation pending or to the Company's knowledge, currently threatened ... that would reasonably be expected to have, either individually or in the aggregate, a material adverse effect on the business of the Company.",
+          "page_start": 3,
+          "page_end": 3,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "market_size": {
+      "value": "$500,000,000-$1,800,000,000 TAM",
+      "answer": "- Total addressable market is estimated between $500M and $1.8B.",
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "$500M-$1.8B TAM",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "tim@healthrate.io",
+        "612-747-5927"
+      ],
+      "prior_exits_experience": [
+        "Led formation and operations of public and private companies",
+        "Strategic advisor to healthcare organizations",
+        "Served on governance boards"
+      ],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "convertible-note-executed-1",
+          "file_name": "convertible-note-executed-1",
+          "quote": "Tim Michaels, Chief Executive Officer",
+          "page_start": 7,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "h25-emerge-himss-healthrate-presentation",
+          "file_name": "h25-emerge-himss-healthrate-presentation",
+          "quote": "Tim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development. Prior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards.",
+          "page_start": null,
+          "page_end": null,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jeff Sage",
+      "role": "Chief Technology Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "jeff@healthrate.io",
+        "303-877-9067"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "quote": "JEFF SAGE Chief Technology Officer JEFF@HEALTHRATE.IO 303-877-9067",
+          "page_start": 8,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "doc_id": "healthrate-team-12-16-25",
+          "file_name": "healthrate-team-12-16-25",
+          "quote": "JEFF SAGE Chief Product Officer (303) 877-9067 JEFF@HEALTHRATE.IO",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Tom Sherrard",
+      "role": "EVP, Sales & Market Development",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "tom@healthrate.io",
+        "612-840-2908"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "healthrate-team-12-16-25",
+          "file_name": "healthrate-team-12-16-25",
+          "quote": "TOM SHERRARD EVP, Sales & Market Development (612) 840-2908 Tom@HEALTHRATE.IO",
+          "page_start": 2,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Paul Stordahl",
+      "role": "Chief Actuary Emeritus, UnitedHealthcare",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Paul Stordahl - Chief Actuary Emeritus, UnitedHealthcare",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Geoff Bartsh",
+      "role": "SVP, Oscar",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Geoff Bartsh - SVP, Oscar",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Robert Van Why",
+      "role": "SVP, HealthPartners",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Robert Van Why - SVP, HealthPartners",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Mark Nathan",
+      "role": "CEO and Founder, Burrow Software",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "quote": "Mark Nathan -CEO and Founder, Burrow Software",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "doc_id": "2026-proforma-draft",
+      "file_name": "2026-proforma-draft",
+      "document_category": "Financial model / projections",
+      "short_summary": "Financial projections for 2026 detailing expenses, payroll, and revenue forecasts.",
+      "long_summary": "The document contains monthly and annual financial projections for 2026, including categories like rent, utilities, payroll, legal fees, insurance, software, data acquisition, marketing, conferences, petty cash, and revenue from SaaS subscriptions and various companies such as Harbor Health, Reflect, Portico, etc. Some deals are marked as sold or verbally sold, and there is a margin value indicated.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\2026-proforma-draft\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\2026-proforma-draft",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\2026-proforma-draft.json"
+    },
+    {
+      "doc_id": "bestinshow-payers-improvingdata",
+      "file_name": "bestinshow-payers-improvingdata",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "Chunk discusses improving data/analytics capabilities for payers.",
+      "long_summary": "The document chunk includes headings 'EMERGE INNOVATION EXPERIENCE' and 'Best in Show Payers Improving Data/Analytics Capabilities', suggesting a focus on data analytics solutions for payers, likely in healthcare or related sectors.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\bestinshow-payers-improvingdata\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\bestinshow-payers-improvingdata",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\bestinshow-payers-improvingdata.json"
+    },
+    {
+      "doc_id": "convertible-note-executed-1",
+      "file_name": "convertible-note-executed-1",
+      "document_category": "Convertible note agreement / legal document",
+      "short_summary": "Convertible promissory note for $500,000 issued by HealthRate, Inc. to First Trust Capital Partners, LLC on August 30, 2024.",
+      "long_summary": "This document is a convertible promissory note where HealthRate, Inc., a Nevada corporation, promises to pay First Trust Capital Partners, LLC $500,000 with 10% annual interest, due on August 30, -2026. The note can convert into preferred stock under specified conditions, including a qualified financing of at least $3,000,000, with conversion price based on the lesser of 80% of the financing price or $7,000,000 divided by fully diluted capitalization. It includes terms for liquidity events, defaults, and legal provisions governed by Delaware law with venue in Illinois.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\convertible-note-executed-1",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\convertible-note-executed-1.json"
+    },
+    {
+      "doc_id": "h25-emerge-himss-healthrate-presentation",
+      "file_name": "h25-emerge-himss-healthrate-presentation",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "HealthRate is a SaaS platform that optimizes pricing for high-cost healthcare claims using AI and domain expertise.",
+      "long_summary": "HealthRate.io is an award-winning SaaS platform designed to help payers and other at-risk entities save money on high-cost claims through price arbitrage. It uses proprietary AI, advanced actuarial expertise, and decades of data to identify cost-saving opportunities. The business model is a monthly subscription based on the number of lives supported. The CEO is Tim Michaels, who has extensive experience in healthcare.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\h25-emerge-himss-healthrate-presentation\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\h25-emerge-himss-healthrate-presentation",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\h25-emerge-himss-healthrate-presentation.json"
+    },
+    {
+      "doc_id": "healthrate-2-pager-2025",
+      "file_name": "healthrate-2-pager-2025",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "HealthRate is an AI and data-driven platform for optimizing costs in high-cost medical procedures, offering significant savings and integration with existing workflows.",
+      "long_summary": "The document describes HealthRate, a company that uses AI and extensive data to compare network scenarios for expensive medical treatments. It highlights benefits like risk shifting, cost prediction, and immediate savings. Features include proprietary databases, AI intelligence, and statistical methods. The target areas are transplants, oncology, neonatal, musculoskeletal, cardiology, and novel therapies. Contact information for the CEO is provided.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-2-pager-2025.json"
+    },
+    {
+      "doc_id": "healthrate-ai",
+      "file_name": "healthrate-ai",
+      "document_category": "Executive summary",
+      "short_summary": "HealthRate AI has developed an AI-driven solution to automate the interpretation and ingestion of healthcare provider contracts, addressing a manual and error-prone process.",
+      "long_summary": "The company describes its AI solution for healthcare contract management, which involves extracting text from PDFs, breaking it into chunks, interpreting terms with specialized LLMs, validating responses, loading data into a model, and including human review. They have successfully processed thousands of contracts and learned key lessons about data security, clean data, model selection, context, and task breakdown. The website is healthrate.io.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ai\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ai",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-ai.json"
+    },
+    {
+      "doc_id": "healthrate-bd-2-pager-draft-v6",
+      "file_name": "healthrate-bd-2-pager-draft-v6",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "HealthRate is an independent platform for real-time pricing of high-cost healthcare claims, with pre-seed funding, product in production, and a $9M+ pipeline.",
+      "long_summary": "HealthRate addresses price irrationality in healthcare by providing a platform that compares and procures network pricing for catastrophic claims. The company has raised $1M pre-seed, built a production product, won HIMSS Best in Show, signed its first customer, and has a $9M+ pipeline ARR. It has 87% gross margins, a structural moat due to independence, and a TAM of $500M-$1.8B. The team is led by Tim Michaels, CEO, with an experienced advisory board. Use of proceeds will focus on sales expansion, platform scaling, data ingestion, and operations.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-bd-2-pager-draft-v6.json"
+    },
+    {
+      "doc_id": "healthrate-ehir-final",
+      "file_name": "healthrate-ehir-final",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "HealthRate is a SaaS platform that uses AI and data to optimize reimbursement and payment for high-cost healthcare claims, targeting providers and payers.",
+      "long_summary": "HealthRate is an award-winning SaaS platform that provides pricing optimization for high-cost healthcare claims. It uses decades of domain experience, trillions of data points, advanced statistical methods, and AI/ML to proactively identify the optimal source and cost of care. The platform is unbiased, independent, and requires no patient intervention or claims auditing. It has case studies with major health systems like Ohio State University Medical Center, showing significant savings. The company has been nominated for HealthcareMN 2024 Start Up of the Year and won HIMSS 2025 Best In Show Payer Analytics. The CTO is Jeff Sage.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-ehir-final.json"
+    },
+    {
+      "doc_id": "healthrate-himss-best-in-show-award-v2",
+      "file_name": "healthrate-himss-best-in-show-award-v2",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "HealthRate is a SaaS platform that optimizes high-cost claims for healthcare entities using AI and actuarial expertise.",
+      "long_summary": "HealthRate offers an award-winning SaaS platform designed to provide payers and other financially at-risk entities with the best pricing for high-cost claims. It uses decades of domain experience, trillions of data points, advanced statistical methods, and AI/ML to identify optimal care costs. The platform requires no patient intervention, is audit-friendly, and integrates seamlessly with existing processes. Pricing models include percentage of savings or monthly flat fees. Target customers include payers, at-risk providers, employers, stop loss providers, reinsurance, and third-party service providers.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-himss-best-in-show-award-v2.json"
+    },
+    {
+      "doc_id": "healthrate-inc-2024-f-1120-10102025-1",
+      "file_name": "healthrate-inc-2024-f-1120-10102025-1",
+      "document_category": "Unknown File Type",
+      "short_summary": "Extraction failed due to JSON parsing error.",
+      "long_summary": "The extraction candidate for this document could not be parsed from the LLM response, indicating an error in the extraction process. No valid fields or key people were extracted.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-inc-2024-f-1120-10102025-1\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-inc-2024-f-1120-10102025-1",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-inc-2024-f-1120-10102025-1.json"
+    },
+    {
+      "doc_id": "healthrate-insitutional-index-v2",
+      "file_name": "healthrate-insitutional-index-v2",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "Describes the HealthRate Institutional Index (HII™), a patent pending price index for comparing healthcare costs across medical centers.",
+      "long_summary": "The chunk introduces the HealthRate Institutional Index (HII™), a patent pending index that normalizes a basket of healthcare services to compare costs across medical centers. It explains how HII is calculated by identifying services, gathering data, weighting categories, and updating regularly. Benefits include solving the 'percent of what' problem and enabling confident cost comparisons. Examples show cost comparisons for heart transplant services.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-insitutional-index-v2.json"
+    },
+    {
+      "doc_id": "healthrate-national-single-organ-network-reference-guide",
+      "file_name": "healthrate-national-single-organ-network-reference-guide",
+      "document_category": "Competitive landscape",
+      "short_summary": "This chunk is a reference guide from HealthRate comparing adult single-organ transplant coverage across major national networks, intended for benefits professionals and consultants.",
+      "long_summary": "The document provides a comparative snapshot of adult single-organ transplant coverage across major national transplant networks, including Optum TRS, Cigna LifeSOURCE, Aetna IOE, Blue Distinction Centers for Transplants, Emerging Therapy Solutions (ETS), Interlink COE, and Humana NTN. It maps in-network status for kidney, liver, heart, lung, and pancreas transplant programs nationwide. The guide is intended to help benefits professionals, self-funded employers, and consultants assess network access, identify gaps, compare footprints, and inform strategic decisions. HealthRate offers additional analytics such as network maps, pricing benchmarks, and SRTR-integrated quality analytics. The document includes disclaimers about data accuracy and is published as Version 1.0 in August 2025.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-national-single-organ-network-reference-guide\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-national-single-organ-network-reference-guide",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-national-single-organ-network-reference-guide.json"
+    },
+    {
+      "doc_id": "healthrate-team-12-16-25",
+      "file_name": "healthrate-team-12-16-25",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "Introduction to HealthRate, a company using AI for reimbursement modeling, with leadership team and board of advisors.",
+      "long_summary": "This document chunk presents HealthRate, which focuses on data-driven, AI-enabled contract arbitrage for reimbursement modeling and decision support. It lists the leadership team including CEO Tim Michaels, EVP Tom Sherrard, and CPO Jeff Sage, along with their contact information. Additionally, it introduces the board of advisors with members Bob Van Why, Geoff Bartsh, Paul Stordahl, and Mark Nathan.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-12-16-25\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-12-16-25",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-team-12-16-25.json"
+    },
+    {
+      "doc_id": "healthrate-team-with-bios-12-16-25",
+      "file_name": "healthrate-team-with-bios-12-16-25",
+      "document_category": "Founder resume / biography",
+      "short_summary": "The chunk presents management profiles for three key team members of HealthRate: Tom Sherrard, Jeff Sage, and Tim Michaels, including their roles, contact information, and professional backgrounds.",
+      "long_summary": "This document chunk contains detailed biographies of the management team at HealthRate. Tom Sherrard is EVP of Sales & Market Development, with over 17 years of experience in healthcare product, sales, and client management. Jeff Sage is Chief Product Officer and co-founder, with over 25 years of experience in healthcare IT strategy and software development. Tim Michaels is Founder and CEO, with over 30 years of experience in healthcare risk management, analytics, and software development. Each profile includes contact details and focus areas.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\healthrate-team-with-bios-12-16-25.json"
+    },
+    {
+      "doc_id": "note-purchase-agreement-executed-1",
+      "file_name": "note-purchase-agreement-executed-1",
+      "document_category": "Convertible note agreement / legal document",
+      "short_summary": "Convertible note purchase agreement for HealthRate, Inc. raising up to $1,000,000.",
+      "long_summary": "Agreement dated August 30, 2024, between HealthRate, Inc. and First Trust Capital Partners, LLC for the purchase of convertible notes totaling $1,000,000 in tranches, with proceeds used for general corporate purposes. The company is a Nevada corporation with headquarters in Hudson, WI.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\note-purchase-agreement-executed-1\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\note-purchase-agreement-executed-1",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\note-purchase-agreement-executed-1.json"
+    },
+    {
+      "doc_id": "patent-pending",
+      "file_name": "patent-pending",
+      "document_category": "Patent / IP summary",
+      "short_summary": "Patent filing receipt for HealthRate Inc's invention related to health system pricing index.",
+      "long_summary": "HealthRate Inc filed a provisional patent application for the HealthRate Institution Index, a method to determine Provider Price Index across US health systems. Application #63/707,441 was filed on October 15, 2024, with inventors Tim Michaels and Jeff Sage, and correspondence address in Carson City, NV.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\patent-pending.json"
+    },
+    {
+      "doc_id": "simpsons-paradox",
+      "file_name": "simpsons-paradox",
+      "document_category": "Executive summary",
+      "short_summary": "The chunk discusses the Lottery Paradox applied to healthcare, where HealthRate helps self-funded employers and advisors manage risks from high-cost medical events like transplants and gene therapies.",
+      "long_summary": "The document chunk introduces the Lottery Paradox as an analogy for how self-funded employers misjudge low-probability, high-impact medical events, leading to seven-figure claims. It presents data on transplants, CAR-T therapies, and gene therapies to show the market reality. HealthRate is described as a solution that helps advisors and employers intervene before bills arrive by flagging rate variance, modeling stop-loss exposure, comparing outcomes and rates, and identifying cost-saving opportunities. The chunk concludes with a call to action for benefits consultants and self-funded employers to use HealthRate for risk management.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\simpsons-paradox.json"
+    },
+    {
+      "doc_id": "srtr-quality",
+      "file_name": "srtr-quality",
+      "document_category": "Strategic partnership document",
+      "short_summary": "HealthRate announces integration with SRTR quality data for transplant provider evaluations.",
+      "long_summary": "HealthRate, a Minneapolis-based SaaS company, integrates SRTR's transplant quality metrics into its platform to enhance cost and quality comparisons for high-cost medical cases like transplants. The company won the Best in Show award at HIMSS25 and aims to empower payers, providers, and patients with informed decisions.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\srtr-quality.json"
+    },
+    {
+      "doc_id": "srtr-screenshot",
+      "file_name": "srtr-screenshot",
+      "document_category": "Product demo / screenshots",
+      "short_summary": "Screenshot showing comparative cost savings and rates for transplant administration services",
+      "long_summary": "The document is a screenshot from a presentation titled 'SRTR screenshot.pptx', displaying metrics related to transplant cost savings, administration costs, biologic rates, and SRTR quality measures, with a footer indicating 'em HealthRate'.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-screenshot\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-screenshot",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\srtr-screenshot.json"
+    },
+    {
+      "doc_id": "submission-copy-001",
+      "file_name": "submission-copy-001",
+      "document_category": "Patent / IP summary",
+      "short_summary": "Patent application submission receipt for HealthRate Inc with application details and involved individuals.",
+      "long_summary": "This chunk is a receipt from the USPTO for a provisional patent application (Application #63/707,441) filed on 10/15/2024 by Jeff Sage, with Tim Michaels as the first named inventor, for HealthRate Inc located at 701 S. Carson St Suite 200, Carson City, NV 89701. It includes confirmation number, patent center number, and a fee of $120.00.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\submission-copy-001\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\submission-copy-001",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\submission-copy-001.json"
+    },
+    {
+      "doc_id": "submission",
+      "file_name": "submission",
+      "document_category": "Patent / IP summary",
+      "short_summary": "USPTO submission receipt for a patent application by HealthRate Inc.",
+      "long_summary": "Document is a receipt from the USPTO for a utility-provisional patent application (Application # 63/707,441) filed on 10/15/2024 by Jeff Sage, with Tim Michaels as the first named inventor, and correspondence address for HealthRate Inc in Carson City, NV.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\submission\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\submission",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\submission.json"
+    },
+    {
+      "doc_id": "the-emerge-innovation-best-in-show-solution-presentation-for-payer-challenges",
+      "file_name": "the-emerge-innovation-best-in-show-solution-presentation-for-payer-challenges",
+      "document_category": "Pitch deck / investor deck",
+      "short_summary": "Document describes an event: The Emerge Innovation Best-in-Show Solution Presentation for Payer Challenges, a pitch competition for healthcare innovators tackling payer challenges.",
+      "long_summary": "The document is a presentation for the Emerge Innovation Best-in-Show Solution Presentation for Payer Challenges event, taking place on Tuesday, March 4, 2025, at Caesars Forum 131. It is part of the Emerge Innovation Experience. The event features three best-in-show innovators presenting solutions to payer challenges such as member engagement, data analytics, and healthcare affordability. Target audience includes investors, entrepreneurs, and startup leaders.",
+      "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\the-emerge-innovation-best-in-show-solution-presentation-for-payer-challenges\\file_llm_feed.md",
+      "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\the-emerge-innovation-best-in-show-solution-presentation-for-payer-challenges",
+      "chunk_count": 1,
+      "source_json_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase03_ExplicitFieldsV2\\deepseek-v3.2_cloud\\json_for_each_file\\the-emerge-innovation-best-in-show-solution-presentation-for-payer-challenges.json"
+    }
+  ],
+  "model_used": "deepseek-v3.2:cloud",
+  "provider_used": "ollama",
+  "source_document_count": 22,
+  "merge_script": "03_99_finish_merge_dossier.py"
+}

@@ -1,0 +1,427 @@
+{
+  "doc_id": "healthrate-team-with-bios-12-16-25",
+  "file_name": "healthrate-team-with-bios-12-16-25",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25",
+  "document_category": "Founder resume / biography",
+  "short_summary": "Management team biographies for HealthRate, featuring Tom Sherrard (EVP, Sale & Market Development), Jeff Sage (Chief Product Officer), and Tim Michaels (Chief Executive Officer), with their roles, contact details, and experience highlights.",
+  "long_summary": "The document provides biographies of HealthRate's leadership team. Tom Sherrard is the EVP of Sale & Market Development, responsible for client acquisition and market expansion, with over 17 years of experience in product, sales, operations, and client management. Jeff Sage serves as Chief Product Officer (also CTO and co‑founder), bringing more than 25 years of healthcare IT experience. Tim Michaels is the Founder and CEO, possessing over 30 years in healthcare risk management, analytics, and software development. Each profile includes contact information (phone and email) and a summary of their professional background.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The company name is HealthRate as shown in the document.",
+      "evidence": [
+        {
+          "quote": "© HealthRate",
+          "surrounding_context": "than 17 years of experience in product, sales, operations, and client management,\n\nTom has worked extensively with payers, providers, and risk-bearing organizations to bring innovative products and services to market that deliver measurable results. Tom has expertise in translating market needs into actionable product and growth strategies, bridging gaps between business development, product strategy, IT, and operational execution.\n\nOver the past several years, Nikki has focused on:\n\n- • Revenue and Product Growth\n\n- • New Product Development\n\n- • Building Startups\n\n- • B2B and B2C Growth Strategy\n\n- • Operational Efficiency\n\n00\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nManagement Profile\n\nMEETING WITH YOU TODAY\n\nJeff Sage\n\nChief Product Officer\n\n303.877.9067\n\njeff@healthrate.io\n\nJeff serves as the CTO anc co-founder of HealthRate and has over 25 years of experience across healthcare with a focus on IT strategy, platform implementation, architecture,  software development..\n\nPrior to HealthRate, Jeff focused on IT strategy and transformation in the management consulting industry. He has led strategy, platform development and delivery across the United States as well as Mexico, Brazil, New Zealand, Italy, Singapore and the UK.\n\nOver the past several years, Jeff",
+          "doc_id": "healthrate-team-with-bios-12-16-25",
+          "file_name": "healthrate-team-with-bios-12-16-25",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3266,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": "healthrate.io",
+      "answer": "The website healthrate.io is mentioned in the document.",
+      "evidence": [
+        {
+          "quote": "tom@healthrate.io",
+          "surrounding_context": "# HealthRate Team with Bios_12.16.25.pptx\n\n---\nPage 1\n---\n\nManagement Profile\n\nMEETING WITH YOU TODAY\n\nTom Sherrard\n\nEVP, Sale & Market Development\n\n615-496-0442\n\ntom@healthrate.io\n\nTom is responsible for leading new client acquisition, market expansion, and client engagement efforts to drive growth and build long-term relationships. With more than 17 years of experience in product, sales, operations, and client management,\n\nTom has worked extensively with payers, providers, and risk-bearing organizations to bring innovative products and services to market that deliver measurable results. Tom has expertise in translating market needs into actionable product and growth strategies, bridging gaps between business development, product strategy, IT, and operational execution.\n\nOver the past several years, Nikki has focused",
+          "doc_id": "healthrate-team-with-bios-12-16-25",
+          "file_name": "healthrate-team-with-bios-12-16-25",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3266,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25\\file_llm_feed.md"
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": [
+        "healthcare"
+      ],
+      "answer": "The document indicates the industry as healthcare.",
+      "evidence": [
+        {
+          "quote": "across healthcare",
+          "surrounding_context": "pertise in translating market needs into actionable product and growth strategies, bridging gaps between business development, product strategy, IT, and operational execution.\n\nOver the past several years, Nikki has focused on:\n\n- • Revenue and Product Growth\n\n- • New Product Development\n\n- • Building Startups\n\n- • B2B and B2C Growth Strategy\n\n- • Operational Efficiency\n\n00\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nManagement Profile\n\nMEETING WITH YOU TODAY\n\nJeff Sage\n\nChief Product Officer\n\n303.877.9067\n\njeff@healthrate.io\n\nJeff serves as the CTO anc co-founder of HealthRate and has over 25 years of experience across healthcare with a focus on IT strategy, platform implementation, architecture,  software development..\n\nPrior to HealthRate, Jeff focused on IT strategy and transformation in the management consulting industry. He has led strategy, platform development and delivery across the United States as well as Mexico, Brazil, New Zealand, Italy, Singapore and the UK.\n\nOver the past several years, Jeff has focused on:\n\n- • Healthcare provider technology\n\n- • Product Development and Deployment\n\n- • Cloud implementation, migration and operations\n\n- • Electronic Health Records (EHR) Implementation\n\n- • Customer, Member, and Patient Portals and Customer Relationship",
+          "doc_id": "healthrate-team-with-bios-12-16-25",
+          "file_name": "healthrate-team-with-bios-12-16-25",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3266,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-team-with-bios-12-16-25\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tom Sherrard",
+      "role": "EVP, Sale & Market Development",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "615-496-0442",
+        "tom@healthrate.io"
+      ],
+      "prior_exits_experience": [
+        "more than 17 years of experience in product, sales, operations, and client management",
+        "worked extensively with payers, providers, and risk-bearing organizations"
+      ],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Tom Sherrard\n\nEVP, Sale & Market Development",
+          "surrounding_context": "# HealthRate Team with Bios_12.16.25.pptx\n\n---\nPage 1\n---\n\nManagement Profile\n\nMEETING WITH YOU TODAY\n\nTom Sherrard\n\nEVP, Sale & Market Development\n\n615-496-0442\n\ntom@healthrate.io\n\nTom is responsible for leading new client acquisition, market expansion, and client engagement efforts to drive growth and build long-term relationships. With more than 17 years of experience in product, sales, operations, and client management,\n\nTom has worked extensively with payers, providers, and risk-bearing organizations to bring innovative products and services to market that deliver measurable results. Tom has expertise in translating market needs into actionable product and growth strategies, bridging gaps between business development, product strategy, IT, and operational execution.",
+          "doc_id": "healthrate-team-with-bios-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Jeff Sage",
+      "role": "Chief Product Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "303.877.9067",
+        "jeff@healthrate.io"
+      ],
+      "prior_exits_experience": [
+        "over 25 years of experience across healthcare with a focus on IT strategy, platform implementation, architecture, software development",
+        "prior focus on IT strategy and transformation in the management consulting industry"
+      ],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Jeff Sage\n\nChief Product Officer",
+          "surrounding_context": "ively with payers, providers, and risk-bearing organizations to bring innovative products and services to market that deliver measurable results. Tom has expertise in translating market needs into actionable product and growth strategies, bridging gaps between business development, product strategy, IT, and operational execution.\n\nOver the past several years, Nikki has focused on:\n\n- • Revenue and Product Growth\n\n- • New Product Development\n\n- • Building Startups\n\n- • B2B and B2C Growth Strategy\n\n- • Operational Efficiency\n\n00\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nManagement Profile\n\nMEETING WITH YOU TODAY\n\nJeff Sage\n\nChief Product Officer\n\n303.877.9067\n\njeff@healthrate.io\n\nJeff serves as the CTO anc co-founder of HealthRate and has over 25 years of experience across healthcare with a focus on IT strategy, platform implementation, architecture,  software development..\n\nPrior to HealthRate, Jeff focused on IT strategy and transformation in the management consulting industry. He has led strategy, platform development and delivery across the United States as well as Mexico, Brazil, New Zealand, Italy, Singapore and the UK.\n\nOver the past several years, Jeff has focused on:\n\n- • Healthcare provider technology\n\n- • Product Development and Deployment\n\n- • Cloud implementation, migra",
+          "doc_id": "healthrate-team-with-bios-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "612.747.5927",
+        "tim@healthrate.io"
+      ],
+      "prior_exits_experience": [
+        "over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development",
+        "led the formation and operations of several public and private companies"
+      ],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "TIM MICHAELS\n\nChief Executive Officer",
+          "surrounding_context": "tegy, platform development and delivery across the United States as well as Mexico, Brazil, New Zealand, Italy, Singapore and the UK.\n\nOver the past several years, Jeff has focused on:\n\n- • Healthcare provider technology\n\n- • Product Development and Deployment\n\n- • Cloud implementation, migration and operations\n\n- • Electronic Health Records (EHR) Implementation\n\n- • Customer, Member, and Patient Portals and Customer Relationship Management\n\n- • Data Center Strategy and Builds\n\n- • Business Continuity and Disaster Recovery\n\n00\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 3\n---\n\nManagement Profile\n\nMEETING WITH YOU TODAY\n\nTIM MICHAELS\n\nChief Executive Officer\n\n612.747.5927\n\ntim@healthrate.io\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent organizations across industries and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\n\nOver the past several years, Tim has focused on:\n\n- • Healthcare Insurance a",
+          "doc_id": "healthrate-team-with-bios-12-16-25",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

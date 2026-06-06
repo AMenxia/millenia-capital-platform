@@ -1,0 +1,390 @@
+{
+  "doc_id": "healthrate-insitutional-index-v2",
+  "file_name": "healthrate-insitutional-index-v2",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "The slide deck presents HealthRate's Institutional Index (HII™), a patent‑pending price index that normalizes a basket of medical services across hospitals to enable cost comparisons and address the \"percent of what\" problem in healthcare reimbursements.",
+  "long_summary": "The document is a pitch deck introducing HealthRate and its HealthRate Institutional Index (HII™). HealthRate is identified as the company name. The deck explains that the HII™ is a patent‑pending price index that normalizes a common basket of services across medical centers, allowing purchasers to compare costs regardless of charge master disclosure methodologies. It solves the \"percent of what\" problem by enabling accurate comparison of complex reimbursement methodologies across hospitals. The industry focus is healthcare. The product status is patent pending. The deck includes a one‑line description summarizing the index as a price normalization tool for cost comparison. No additional corporate, financial, or personnel details are provided.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The document states the company name as HealthRate.",
+      "evidence": [
+        {
+          "quote": "© HealthRate",
+          "surrounding_context": "xing is a well-established and reliable method for comparing costs over time and across different regions. It has been widely used by governments, economists, businesses, and financial institutions for many decades. The HII has been specifically designed to solve the “percent of what” problem; allowing you to compare complex reimbursement methodologies across medical centers with confidence.\n\nTracking and analyzing healthcare costs across Medical Centers with precision, the patent pending HealthRate Institutional Index informs smarter financial decisions through cost normalization.\n\nImage Text:\nPATENT PENDING:\n\n2 9\nDW\" LS\nST PES\n\nImage Text:\n© HealthRate\n\nProvisional patent # 63/707,441\n\nPROPRIETARY AND CONFIDENTIAL\n\n01\n\nImage Text:\na \\\nANN\n\n\\N\n\na\n\ncy\n\n---\nPage 2\n---\n\nConsider the task of evaluating a heart transplant across multiple medical centers to project total costs. The tables to the left compare two common charges\n\n02\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nHII™\n\nHEALTHRATE INSTITUTIONAL INDEX\n\nImage Text:\ncer Description MC#1 (118) __ MC #2(65)\n560 Anesthesia for heart transplant $3,000.00 $ 1,900.00\n‘93312 Transesophageal echocardiography $1,255.00. $ 1,180.00\nTotal Cost of Care (Gross) $ 4,255.00 $ 3,080.00\n\nPercent of Charges 65% 75%\n\nTotal Hil Adjusted Cost of C",
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2937,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [
+        "healthcare"
+      ],
+      "answer": "The document indicates the industry/sector as healthcare.",
+      "evidence": [
+        {
+          "quote": "Tracking and analyzing healthcare costs across Medical Centers with precision",
+          "surrounding_context": "ex calculates price fluctuations for each category, quantifying these changes according to their weighted importance. Finally, the index is regularly updated to incorporate newly available data and reflect ongoing trends.\n\nTHE BENEFIT OF HII™\n\nPrice indexing is a well-established and reliable method for comparing costs over time and across different regions. It has been widely used by governments, economists, businesses, and financial institutions for many decades. The HII has been specifically designed to solve the “percent of what” problem; allowing you to compare complex reimbursement methodologies across medical centers with confidence.\n\nTracking and analyzing healthcare costs across Medical Centers with precision, the patent pending HealthRate Institutional Index informs smarter financial decisions through cost normalization.\n\nImage Text:\nPATENT PENDING:\n\n2 9\nDW\" LS\nST PES\n\nImage Text:\n© HealthRate\n\nProvisional patent # 63/707,441\n\nPROPRIETARY AND CONFIDENTIAL\n\n01\n\nImage Text:\na \\\nANN\n\n\\N\n\na\n\ncy\n\n---\nPage 2\n---\n\nConsider the task of evaluating a heart transplant across multiple medical centers to project total costs. The tables to the left compare two common charges\n\n02\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nHII™\n\nHEALTHRATE INSTITUTIONAL INDEX\n\nImage Text:\ncer Description MC#1 (118) __ MC #2(65)\n560 Anesthesia for heart transplant",
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2937,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "HealthRate Institutional Index is a patent pending price index that normalizes a basket of services across medical centers to enable cost comparison.",
+      "answer": "The document provides a one‑line description of the HealthRate Institutional Index as a patent‑pending price index that normalizes a basket of services across medical centers for cost comparison.",
+      "evidence": [
+        {
+          "quote": "The HealthRate Institutional Index is a patent pending price index that has been developed by normalizing a common basket of relevant services across medical centers.",
+          "surrounding_context": "# HealthRate Insitutional Index v2.pptx\n\n---\nPage 1\n---\n\nHII™\n\nHEALTHRATE INSTITUTIONAL INDEX\n\nWHAT IS THE HII™\n\nThe HealthRate Institutional Index is a patent pending price index that has been developed by normalizing a common basket of relevant services across medical centers. The index allows purchasers to compare costs regardless of charge master disclosure methodologies.\n\nHOW IS HII™CALCULATED\n\nThe HealthRate Institutional Index begins by identifying a comprehensive set of services that are relevant to high-cost cases—a challenging endeavor. It then gathers the necessary data and organizes this information into categories weighted by their significance to service line billing patterns. The index calculates price fluctuations for each category, quantifying these changes according to their weighted importance. Finally, the index is regularly updated to incorporate newly available data and reflect ongoing trends.",
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2937,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "the “percent of what” problem; allowing you to compare complex reimbursement methodologies across medical centers",
+      "answer": "The document describes the problem as the “percent of what” problem, which hampers comparison of complex reimbursement methodologies across medical centers.",
+      "evidence": [
+        {
+          "quote": "The HII has been specifically designed to solve the “percent of what” problem; allowing you to compare complex reimbursement methodologies across medical centers with confidence.",
+          "surrounding_context": "s—a challenging endeavor. It then gathers the necessary data and organizes this information into categories weighted by their significance to service line billing patterns. The index calculates price fluctuations for each category, quantifying these changes according to their weighted importance. Finally, the index is regularly updated to incorporate newly available data and reflect ongoing trends.\n\nTHE BENEFIT OF HII™\n\nPrice indexing is a well-established and reliable method for comparing costs over time and across different regions. It has been widely used by governments, economists, businesses, and financial institutions for many decades. The HII has been specifically designed to solve the “percent of what” problem; allowing you to compare complex reimbursement methodologies across medical centers with confidence.\n\nTracking and analyzing healthcare costs across Medical Centers with precision, the patent pending HealthRate Institutional Index informs smarter financial decisions through cost normalization.\n\nImage Text:\nPATENT PENDING:\n\n2 9\nDW\" LS\nST PES\n\nImage Text:\n© HealthRate\n\nProvisional patent # 63/707,441\n\nPROPRIETARY AND CONFIDENTIAL\n\n01\n\nImage Text:\na \\\nANN\n\n\\N\n\na\n\ncy\n\n---\nPage 2\n---\n\nConsider the task of evaluating a heart transplant across multiple medical centers to project total costs. The tables to the left compare two common charges\n\n02\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nHII™\n\nHEALTHRATE INSTITUTIONAL INDEX\n\nImage Tex",
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2937,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "HealthRate Institutional Index, a patent pending price index that normalizes services across medical centers",
+      "answer": "The solution presented is the HealthRate Institutional Index, a patent‑pending price index that normalizes services across medical centers.",
+      "evidence": [
+        {
+          "quote": "The HealthRate Institutional Index is a patent pending price index that has been developed by normalizing a common basket of relevant services across medical centers.",
+          "surrounding_context": "# HealthRate Insitutional Index v2.pptx\n\n---\nPage 1\n---\n\nHII™\n\nHEALTHRATE INSTITUTIONAL INDEX\n\nWHAT IS THE HII™\n\nThe HealthRate Institutional Index is a patent pending price index that has been developed by normalizing a common basket of relevant services across medical centers. The index allows purchasers to compare costs regardless of charge master disclosure methodologies.\n\nHOW IS HII™CALCULATED\n\nThe HealthRate Institutional Index begins by identifying a comprehensive set of services that are relevant to high-cost cases—a challenging endeavor. It then gathers the necessary data and organizes this information into categories weighted by their significance to service line billing patterns. The index calculates price fluctuations for each category, quantifying these changes according to their weighted importance. Finally, the index is regularly updated to incorporate newly available data and reflect ongoing trends.",
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2937,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": "patent pending",
+      "answer": "The document indicates the product status as patent pending.",
+      "evidence": [
+        {
+          "quote": "PATENT PENDING",
+          "surrounding_context": "# HealthRate Insitutional Index v2.pptx\n\n---\nPage 1\n---\n\nHII™\n\nHEALTHRATE INSTITUTIONAL INDEX\n\nWHAT IS THE HII™\n\nThe HealthRate Institutional Index is a patent pending price index that has been developed by normalizing a common basket of relevant services across medical centers. The index allows purchasers to compare costs regardless of charge master disclosure methodologies.\n\nHOW IS HII™CALCULATED\n\nThe HealthRate Institutional Index begins by identifying a comprehensive set of services that are relevant to high-cost cases—a challenging endeavor. It then gathers the necessary data and organizes this information into categories weighted by their significance to service line billing patterns. The index calculates price fluctuations for each category, quantifying these changes according to their weighted impo",
+          "doc_id": "healthrate-insitutional-index-v2",
+          "file_name": "healthrate-insitutional-index-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2937,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-insitutional-index-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": []
+}

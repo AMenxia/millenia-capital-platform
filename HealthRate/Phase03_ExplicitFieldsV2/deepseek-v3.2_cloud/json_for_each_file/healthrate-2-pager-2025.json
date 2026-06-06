@@ -1,0 +1,166 @@
+{
+  "doc_id": "healthrate-2-pager-2025",
+  "file_name": "healthrate-2-pager-2025",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "HealthRate is an AI and data-driven platform for optimizing costs in high-cost medical procedures, offering significant savings and integration with existing workflows.",
+  "long_summary": "The document describes HealthRate, a company that uses AI and extensive data to compare network scenarios for expensive medical treatments. It highlights benefits like risk shifting, cost prediction, and immediate savings. Features include proprietary databases, AI intelligence, and statistical methods. The target areas are transplants, oncology, neonatal, musculoskeletal, cardiology, and novel therapies. Contact information for the CEO is provided.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The company is named HealthRate.",
+      "evidence": [
+        {
+          "quote": "# HealthRate 2 Pager_2025.pdf",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Image Text: Ga HealthRate",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": "Instantly Compare Network Scenarios for High-Cost Medical Procedures",
+      "answer": "HealthRate provides a platform to instantly compare network scenarios for high-cost medical procedures.",
+      "evidence": [
+        {
+          "quote": "Instantly Compare Network Scenarios for High-Cost Medical Procedures",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Instantly Compare Network Scenarios for High-Cost Medical Procedures",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "Healthcare reimbursement and payment optimization",
+      "answer": "The company operates in the healthcare sector, specifically in data-driven, AI-enabled reimbursement and payment optimization.",
+      "evidence": [
+        {
+          "quote": "DATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "Challenges in publishing compliant data, accessing MRF data, and applying contract, rate, and claims information to real-world scenarios in healthcare.",
+      "answer": "The healthcare ecosystem faces difficulties with transparency legislation, data compliance, and practical application of information for business value.",
+      "evidence": [
+        {
+          "quote": "The healthcare ecosystem continues to face challenges publishing compliant data, accessing MRF data, and most importantly applying contract, rate, and claims information to real world scenarios that provide business value.",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "A platform built on domain experience, data points, statistical methods, and AI/ML to identify optimal source and cost of care.",
+      "answer": "HealthRate uses advanced data analytics and AI to proactively identify the optimal source and cost of care for medical procedures.",
+      "evidence": [
+        {
+          "quote": "Built on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": "Proprietary algorithms, database, and features like risk measurement, advanced statistical analysis, immediate ROI, etc.",
+      "answer": "HealthRate has competitive advantages such as proprietary algorithms, a turnkey platform with low learning curve, risk measurement capabilities, and immediate ROI.",
+      "evidence": [
+        {
+          "quote": "AI enabled proprietary database of Transparency Data (TIC and No Surprises)",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Proprietary (derived) data fields and scoring models to determine relative importance of rates/terms",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Proprietary algorithms to predict cost performance built by senior niche industry experts",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "ip_ownership": {
+      "value": "Proprietary database, data fields, scoring models, and algorithms.",
+      "answer": "HealthRate owns proprietary intellectual property including databases, data fields, scoring models, and algorithms.",
+      "evidence": [
+        {
+          "quote": "AI enabled proprietary database of Transparency Data (TIC and No Surprises)",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Proprietary (derived) data fields and scoring models to determine relative importance of rates/terms",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "Proprietary algorithms to predict cost performance built by senior niche industry experts",
+          "page_start": 1,
+          "page_end": -1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "TIM MICHAELS",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "TIM@HEALTHRATE.IO",
+        "612-747-5927"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "TIM MICHAELS Chief Executive Officer",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "TIM@HEALTHRATE.IO",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        },
+        {
+          "quote": "612-747-5927",
+          "page_start": 2,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  ],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-2-pager-2025",
+  "chunk_count": 1
+}

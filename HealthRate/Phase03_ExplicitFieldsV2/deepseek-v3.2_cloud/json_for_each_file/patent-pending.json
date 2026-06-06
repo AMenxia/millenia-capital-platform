@@ -1,0 +1,120 @@
+{
+  "doc_id": "patent-pending",
+  "file_name": "patent-pending",
+  "document_category": "Patent / IP summary",
+  "short_summary": "Patent filing receipt for HealthRate Inc's invention related to health system pricing index.",
+  "long_summary": "HealthRate Inc filed a provisional patent application for the HealthRate Institution Index, a method to determine Provider Price Index across US health systems. Application #63/707,441 was filed on October 15, 2024, with inventors Tim Michaels and Jeff Sage, and correspondence address in Carson City, NV.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate Inc",
+      "answer": "The company name is HealthRate Inc.",
+      "evidence": [
+        {
+          "quote": "CORRESPONDENCE HealthRate Inc",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "one_line_description": {
+      "value": "A method and process for determining the relative Provider Price Index across United States-based Health Systems.",
+      "answer": "The invention is a method for determining Provider Price Index across US health systems.",
+      "evidence": [
+        {
+          "quote": "Title of Invention: This capability is referred to as the HealthRate Institution Index. A method and process for determining the relative Provider Price Index across United States-based Health Systems.",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "Healthcare",
+      "answer": "The invention relates to health systems, indicating involvement in healthcare.",
+      "evidence": [
+        {
+          "quote": "determining the relative Provider Price Index across United States-based Health Systems.",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "headquarters_location": {
+      "value": "701 S. Carson St Suite 200 Carson City, NV89701",
+      "answer": "The correspondence address is in Carson City, NV, which may be the company location.",
+      "evidence": [
+        {
+          "quote": "ADDRESS 701 S. Carson St Suite 200 Carson City, NV89701",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "ip_ownership": {
+      "value": "Patent application filed for HealthRate Institution Index",
+      "answer": "A patent application has been filed for the HealthRate Institution Index.",
+      "evidence": [
+        {
+          "quote": "Title of Invention: This capability is referred to as the HealthRate Institution Index. A method and process for determining the relative Provider Price Index across United States-based Health Systems.",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "trademarks_patents": {
+      "value": "Provisional utility patent application #63/707,441 filed on October 15, 2024",
+      "answer": "A provisional patent application with number 63/707,441 was filed on October 15, 2024.",
+      "evidence": [
+        {
+          "quote": "APPLICATION # 63/707,441 RECEIPT DATE / TIME 10/15/2024 3:01:38 PM ET APPLICATION TYPE Utility - Provisional Application under 35 USC 111(b)",
+          "page_start": 1,
+          "page_end": 2,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "First Named Inventor",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "FIRST NAMED INVENTOR Tim Michaels",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jeff Sage",
+      "role": "Filed By",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "FILED BY Jeff Sage",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  ],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\patent-pending",
+  "chunk_count": 1
+}

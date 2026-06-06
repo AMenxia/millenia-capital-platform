@@ -1,0 +1,459 @@
+{
+  "doc_id": "healthrate-himss-best-in-show-award-v2",
+  "file_name": "healthrate-himss-best-in-show-award-v2",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "A presentation introducing HealthRate, a SaaS platform for pricing high-cost healthcare claims, describing its solution, business model, target customers, competitive advantages, and featuring CEO Tim Michaels and Chief Actuary Emeritus Paul Stordahl.",
+  "long_summary": "HealthRate is an award‑winning SaaS platform that provides payers with the best pricing for high‑cost claims without impacting quality, causing provider abrasion, or requiring patient intervention. The solution is audit‑friendly and can be implemented via a simple click‑button analysis. Pricing is offered either as a percentage of savings or a monthly flat‑fee model. Target customers include Payers, At‑Risk Providers, Employers, Stop‑Loss Providers, Reinsurance firms, and third‑party service providers. Competitive advantage stems from decades of domain experience, trillions of data points, advanced statistical methods, and recent AI/ML advancements. The deck also highlights the leadership of Tim Michaels (CEO) and Paul Stordahl (Chief Actuary Emeritus, UnitedHealthcare).",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The company name is HealthRate.",
+      "evidence": [
+        {
+          "quote": "HealthRate is like GoodRx for high-cost claims.",
+          "surrounding_context": "612.747.5927 tim@healthrate.io\n\n## Tim Michaels\n\n## Chief Executive Officer\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\n\nImage Text:\nHIMSS @\n\n---\nPage 4\n---\n\n## HealthRate is like GoodRx for high-cost claims.\n\n'\n\n## Paul Stordahl\n\nChief Actuary Emeritus, UnitedHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n\n'\n\n---\nPage 5\n---\n\n## What is HealthRate?\n\n## PRICE ARBITRAGE\n\n- HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention is required\n\n- Audit friendly\n\n- Implementation is as simple as adding click button analysis to your existing process\n\nImage Text:\nHIMSS @\n\n---\nPage 6\n---\n\n## Who Uses HealthRate & What Does it Cost?\n\n## FINANCIALY AT RISK ENTITIES AND FIDUCIARIES\n\n- Payers\n\n- At Risk Providers\n\n- Employers\n\n- Stop Loss Provide",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": "www.healthrate.io",
+      "answer": "The website is www.healthrate.io.",
+      "evidence": [
+        {
+          "quote": "Login to www.healthrate.io and begin saving!",
+          "surrounding_context": "l source and cost of care.\n\nEMERGE\n\n.\n\n## Specialty Contracting Expertise + Legislative Changes\n\n- Niche industry experts who have defined the industries payment methodologies, levers, and triggers for specialty reimbursement\n\n- Transparency in Coverage and No Surprises Act have triggered increased competition\n\n## Advanced Actuarial Expertise\n\n- Decades of real-world data\n\n- Proprietary Artificial Intelligence(AI) to ingest and process payment terms\n\n- Advance statistical analysis and proprietary algorithms to identify and quantify opportunities\n\n## De-Mystified\n\n- Update your precertification and utilization processes with existing staff\n\n- Login to www.healthrate.io and begin saving!\n\nImage Text:\nHIMSS @\n\n---\nPage 8\n---\n\n## What Do I Get?\n\n## DETAILED CASE ANALYSIS\n\nA comprehensive analysis is produced for each case, clearly documenting the opportunity\n\n## COST CONTAINMENT\n\nEach case can produce reduced claims between $50,000 and $1,000,000+.\n\nImage Text:\nWG HealthRate . “en\nTransplant - Liver alithias\n\netic state charges\n(vation Cot ”\n\nre Adminstration Cont 200,000\nTWansplnt /Adminsratin Cost $0,000\n\nPox Administration Cort #00200\n‘Aina ost so\n\nBiotic 230000\n\n(MUGEN c:concentat 22 Mc: Confidential #3\nYe edt DPKSavng AAS) 5.3% Savings 585995) Maxon $0\nte Adnroten ot Sa Sern 151% evn Max con 5)\n\nTanspln/ aon Cont sax cos",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": [
+        "Healthcare"
+      ],
+      "answer": "The industry/sector is Healthcare.",
+      "evidence": [
+        {
+          "quote": "Tim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare",
+          "surrounding_context": "# HealthRate - HIMSS Best in Show Award v2.pdf\n\n---\nPage 1\n---\n\nImage Text:\nEMERGE HIMSS @\n\nDiscover Brands Before They Breakthrough\n\n---\nPage 2\n---\n\n## Welcome\n\n## Tim Michaels\n\nChief Executive Officer\n\nImage Text:\nHIMSS @\n\n---\nPage 3\n---\n\nTIM MICHAELS Chief Executive Officer 612.747.5927 tim@healthrate.io\n\n## Tim Michaels\n\n## Chief Executive Officer\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\n\nImage Text:\nHIMSS @\n\n---\nPage 4\n---\n\n## HealthRate is like GoodRx for high-cost claims.\n\n'\n\n## Paul Stordahl\n\nChief Actuary Emeritus, UnitedHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n\n'\n\n---\nPage 5\n---\n\n## What is",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "HealthRate is like GoodRx for high-cost claims.",
+      "answer": "HealthRate is described as \"like GoodRx for high-cost claims.\"",
+      "evidence": [
+        {
+          "quote": "HealthRate is like GoodRx for high-cost claims.",
+          "surrounding_context": "612.747.5927 tim@healthrate.io\n\n## Tim Michaels\n\n## Chief Executive Officer\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\n\nImage Text:\nHIMSS @\n\n---\nPage 4\n---\n\n## HealthRate is like GoodRx for high-cost claims.\n\n'\n\n## Paul Stordahl\n\nChief Actuary Emeritus, UnitedHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n\n'\n\n---\nPage 5\n---\n\n## What is HealthRate?\n\n## PRICE ARBITRAGE\n\n- HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention is required\n\n- Audit friendly\n\n- Implementation is as simple as adding click button analysis to your existing process\n\nImage Text:\nHIMSS @\n\n---\nPage 6\n---\n\n## Who Uses HealthRate & What Does it Cost?\n\n## FINANCIALY AT RISK ENTITIES AND FIDUCIARIES\n\n- Payers\n\n- At Risk Providers\n\n- Employers\n\n- Stop Loss Provide",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": "HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims",
+      "answer": "The solution is an award‑winning SaaS platform that provides payers the best pricing for high‑cost claims.",
+      "evidence": [
+        {
+          "quote": "HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims",
+          "surrounding_context": "nalytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\n\nImage Text:\nHIMSS @\n\n---\nPage 4\n---\n\n## HealthRate is like GoodRx for high-cost claims.\n\n'\n\n## Paul Stordahl\n\nChief Actuary Emeritus, UnitedHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n\n'\n\n---\nPage 5\n---\n\n## What is HealthRate?\n\n## PRICE ARBITRAGE\n\n- HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention is required\n\n- Audit friendly\n\n- Implementation is as simple as adding click button analysis to your existing process\n\nImage Text:\nHIMSS @\n\n---\nPage 6\n---\n\n## Who Uses HealthRate & What Does it Cost?\n\n## FINANCIALY AT RISK ENTITIES AND FIDUCIARIES\n\n- Payers\n\n- At Risk Providers\n\n- Employers\n\n- Stop Loss Providers\n\n- Reinsurance\n\n- 3 RD Party Service Providers\n\nPricing is available on a percentage of savings model or a monthly flat fee model\n\nImage Text:\nHIMSS @\n\n---\nPage 7\n---\n\n## How Does HealthRate Do It?\n\n## PAYMENT OPTIMIZATION & DECISION SUPPORT\n\nBuilt on decades",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "business_model": {
+      "value": "Pricing is available on a percentage of savings model or a monthly flat fee model",
+      "answer": "Pricing is offered either as a percentage of savings or a monthly flat‑fee model.",
+      "evidence": [
+        {
+          "quote": "Pricing is available on a percentage of savings model or a monthly flat fee model",
+          "surrounding_context": "edHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n\n'\n\n---\nPage 5\n---\n\n## What is HealthRate?\n\n## PRICE ARBITRAGE\n\n- HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention is required\n\n- Audit friendly\n\n- Implementation is as simple as adding click button analysis to your existing process\n\nImage Text:\nHIMSS @\n\n---\nPage 6\n---\n\n## Who Uses HealthRate & What Does it Cost?\n\n## FINANCIALY AT RISK ENTITIES AND FIDUCIARIES\n\n- Payers\n\n- At Risk Providers\n\n- Employers\n\n- Stop Loss Providers\n\n- Reinsurance\n\n- 3 RD Party Service Providers\n\nPricing is available on a percentage of savings model or a monthly flat fee model\n\nImage Text:\nHIMSS @\n\n---\nPage 7\n---\n\n## How Does HealthRate Do It?\n\n## PAYMENT OPTIMIZATION & DECISION SUPPORT\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nEMERGE\n\n.\n\n## Specialty Contracting Expertise + Legislative Changes\n\n- Niche industry experts who have defined the industries payment methodologies, levers, and triggers for specialty reimbursement\n\n- Transparency in Coverage and No Surprises Act have triggered increased competition\n\n## Advanced Actuarial Expertise\n\n- Decades of real",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "target_customers": {
+      "value": [
+        "Payers",
+        "At Risk Providers",
+        "Employers",
+        "Stop Loss Providers",
+        "Reinsurance",
+        "3RD Party Service Providers"
+      ],
+      "answer": "- Payers\n- At Risk Providers\n- Employers\n- Stop Loss Providers\n- Reinsurance\n- 3RD Party Service Providers",
+      "evidence": [
+        {
+          "quote": "Payers\n- At Risk Providers\n- Employers\n- Stop Loss Providers\n- Reinsurance\n- 3 RD Party Service Providers",
+          "surrounding_context": "# HealthRate - HIMSS Best in Show Award v2.pdf\n\n---\nPage 1\n---\n\nImage Text:\nEMERGE HIMSS @\n\nDiscover Brands Before They Breakthrough\n\n---\nPage 2\n---\n\n## Welcome\n\n## Tim Michaels\n\nChief Executive Officer\n\nImage Text:\nHIMSS @\n\n---\nPage 3\n---\n\nTIM MICHAELS Chief Executive Officer 612.747.5927 tim@healthrate.io\n\n## Tim Michaels\n\n## Chief Executive Officer\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\n\nImage Text:\nHIMSS @\n\n---\nPage 4\n---\n\n## HealthRate is like GoodRx for high-cost claims.\n\n'\n\n## Paul Stordahl\n\nChief Actuary Emeritus, UnitedHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n\n'\n\n---\nPage 5\n---\n\n## What is HealthRate?\n\n## PRICE ARBITRAGE\n\n- HealthRate is an Award-Winning SaaS platform that provides payers the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient\n...[truncated]",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": "Built on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML",
+      "answer": "Competitive advantage is based on decades of domain experience, trillions of data points, advanced statistical methods, and recent AI/ML advancements.",
+      "evidence": [
+        {
+          "quote": "Built on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML",
+          "surrounding_context": "high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention is required\n\n- Audit friendly\n\n- Implementation is as simple as adding click button analysis to your existing process\n\nImage Text:\nHIMSS @\n\n---\nPage 6\n---\n\n## Who Uses HealthRate & What Does it Cost?\n\n## FINANCIALY AT RISK ENTITIES AND FIDUCIARIES\n\n- Payers\n\n- At Risk Providers\n\n- Employers\n\n- Stop Loss Providers\n\n- Reinsurance\n\n- 3 RD Party Service Providers\n\nPricing is available on a percentage of savings model or a monthly flat fee model\n\nImage Text:\nHIMSS @\n\n---\nPage 7\n---\n\n## How Does HealthRate Do It?\n\n## PAYMENT OPTIMIZATION & DECISION SUPPORT\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nEMERGE\n\n.\n\n## Specialty Contracting Expertise + Legislative Changes\n\n- Niche industry experts who have defined the industries payment methodologies, levers, and triggers for specialty reimbursement\n\n- Transparency in Coverage and No Surprises Act have triggered increased competition\n\n## Advanced Actuarial Expertise\n\n- Decades of real-world data\n\n- Proprietary Artificial Intelligence(AI) to ingest and process payment terms\n\n- Advance statistical analysis and proprietary algorithms to identify and quantify opportunities\n\n## De-Mystified\n\n- Update your precertification and",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "file_name": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 4574,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-himss-best-in-show-award-v2\\file_llm_feed.md"
+        }
+      ]
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Chief Executive Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "612.747.5927",
+        "tim@healthrate.io"
+      ],
+      "prior_exits_experience": [
+        "over 30 years of experience across healthcare with focus on risk management, analytics, reimbursement strategies, and software development; led formation and operations of several public and private companies"
+      ],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "TIM MICHAELS Chief Executive Officer 612.747.5927 tim@healthrate.io",
+          "surrounding_context": "# HealthRate - HIMSS Best in Show Award v2.pdf\n\n---\nPage 1\n---\n\nImage Text:\nEMERGE HIMSS @\n\nDiscover Brands Before They Breakthrough\n\n---\nPage 2\n---\n\n## Welcome\n\n## Tim Michaels\n\nChief Executive Officer\n\nImage Text:\nHIMSS @\n\n---\nPage 3\n---\n\nTIM MICHAELS Chief Executive Officer 612.747.5927 tim@healthrate.io\n\n## Tim Michaels\n\n## Chief Executive Officer\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Paul Stordahl",
+      "role": "Chief Actuary Emeritus, UnitedHealthcare",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Paul Stordahl Chief Actuary Emeritus, UnitedHealthcare",
+          "surrounding_context": "ef Executive Officer\n\nTim is the Founder and CEO of HealthRate and has over 30 years of experience across healthcare with a focus on risk management, analytics, reimbursement strategies, and software development.\n\nPrior to starting HealthRate, Tim successfully led the formation and operations of several public and private companies, worked as a strategic advisor to prominent healthcare organizations, and served on multiple governance boards. He has extensive experience in operations, product development, risk management, and information technology\nImage Text:\nHIMSS @\n---\nPage 4\n---\n\n## HealthRate is like GoodRx for high-cost claims.\n\n'\n\n## Paul Stordahl\n\nChief Actuary Emeritus, UnitedHealthcare\n\nEMERGE\n\nImage Text:\nHIMSS @\n'\n---\nPage 5\n---\n\n## What is HealthRate?\n\n## PRICE ARBITRAGE",
+          "doc_id": "healthrate-himss-best-in-show-award-v2",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

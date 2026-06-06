@@ -1,0 +1,398 @@
+{
+  "doc_id": "healthrate-ehir-final",
+  "file_name": "healthrate-ehir-final",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "A confidential pitch deck for HealthRate, an AI‑enabled SaaS platform that optimizes reimbursement and payment for high‑cost medical claims.",
+  "long_summary": "The document is a confidential pitch deck for HealthRate, an AI‑enabled SaaS platform described as the “GoodRx for catastrophic claims.” It showcases simulation results, product benefits, implementation workflow, and the company’s independent, unbiased approach to payment optimization. The deck highlights the platform’s ability to provide the best pricing for high‑cost claims, its real‑time decision support, and a fiduciary cost‑analysis that can save millions per case. Contact information for the CTO, Jeff Sage, is included along with the company website healthrate.io.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The document lists the company name as HealthRate.",
+      "evidence": [
+        {
+          "quote": "HealthRate",
+          "surrounding_context": "# HealthRate EHIR FINAL.pptx\n\n---\nPage 1\n---\n\nREIMBURSEMENT\n\nMODELING & DECISION\n\nSUPPORT\n\nDATA DRIVEN; AI ENABLED REIMBURSEMENT & PAYMENT OPTIMIZATION\n\nImage Text:\nwi\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 2\n---\n\nPROPRIETARY AND CONFIDENTIAL\n\nImage Text:\nSimulation Results\n\nFacey Rate\n\nBiologie Rates a of WAC\nInter Days\n\n‘Simulated charges\n\nBites\n\n‘Total Simulated Charges\n\n(io State University Medical Center: Confidential #2\n\n‘171000\n\n(Ohio State University Medical Center: Conientia #3\n\nImage Text:\nCai HealthRate\n\nSimulation\n\nSimulation\n\nQ Results\n\nService Type\n\nTransplant v\n\n© Rate Sheets\n\n© FAQs © Adult\n\n<\n\nTransplant - Liver\n\n(DO Glossar",
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 7841,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": "healthrate.io",
+      "answer": "The document provides the website as healthrate.io.",
+      "evidence": [
+        {
+          "quote": "Login to www.healthrate.io",
+          "surrounding_context": "gislative Changes\n\nAdvanced Actuarial Expertise\n\nDe-Mystified\n\n- Niche industry experts who have defined the industries payment methodologies, levers, and triggers for specialty reimbursement\n\n- Transparency in Coverage and No Surprises Act have triggered increased competition\n\n- Decades of real-world data\n\n- Proprietary Artificial Intelligence(AI) to ingest and process payment terms\n\n- Advance statistical analysis and proprietary algorithms to identify and quantify opportunities\n\n- Update your precertification and utilization processes with existing staff or have HealthRate do it for you\n\n- Instantly evaluate all available provider rates\n\n- Login to www.healthrate.io and begin saving!\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML, HealthRate proactively identifies the optimal source and cost of care.\n\nPAYMENT OPTIMIZATION &\n\nDECISION SUPPORT",
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 7841,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md"
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "SaaS platform that provides the best pricing for high‑cost claims",
+      "answer": "The deck describes HealthRate as a SaaS platform that provides the best pricing for high‑cost claims.",
+      "evidence": [
+        {
+          "quote": "An Award-Winning* SaaS platform that provides the best pricing for high-cost claims",
+          "surrounding_context": "tion\n\nSimulation\n\nQ Results\n\nService Type\n\nTransplant v\n\n© Rate Sheets\n\n© FAQs © Adult\n\n<\n\nTransplant - Liver\n\n(DO Glossary\n\n& Support ee .\nClinical Severity\n\nMedium\n\nG Sign out\n\nEvaluation Cost @ Pre-Administration Cost @ Transplant / Administration Cost ® Post-Administration Cost @\n\n$0 $ $ $\n\n900,000 1,000,000 800,000\n\nAdditional Cost ® Biologic ®\n\n$\n\nLength of Stay ®\n\n$0 250,000\n\nTTP TTT ET TEE EEE\n\n.00 28\n\n——\n\nProviders and Networks\n\nOhio State University Medical Center\nHealthRate Institution Index™ (53)\n\nConfidential #3\n\nCase Rate @ Facility Rate @ Biologic Rate as a % of WAC @ Outlier Charge Threshold @\n\n$ 234,000 .00 60 % 100 % $0 oO\n\nAn Award-Winning* SaaS platform that provides the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention required\n\n- No claims auditing or cash recovery\n\nWhat is HealthRate\n\nSaaS PLATFORM OVERVIEW\n\n01\n\nImage Text:\n© HealthRate\n\nPlatform\n\nThe “GoodRx for catastrophic claims”\n\n* HIMSS 2025 Best In Show Payer Analytics, HealthcareMN 2024 Start Up of the Year Nominee\n\n---\nPage 3\n---\n\n02\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nHEALTHRATE EXPERTISE\n\nHow it Works\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML\n\nHealthRate proactively identifies the optimal source and cost of care.",
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 7841,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "business_model": {
+      "value": "SaaS platform",
+      "answer": "The document states the business model is a SaaS platform.",
+      "evidence": [
+        {
+          "quote": "An Award-Winning* SaaS platform that provides the best pricing for high-cost claims",
+          "surrounding_context": "tion\n\nSimulation\n\nQ Results\n\nService Type\n\nTransplant v\n\n© Rate Sheets\n\n© FAQs © Adult\n\n<\n\nTransplant - Liver\n\n(DO Glossary\n\n& Support ee .\nClinical Severity\n\nMedium\n\nG Sign out\n\nEvaluation Cost @ Pre-Administration Cost @ Transplant / Administration Cost ® Post-Administration Cost @\n\n$0 $ $ $\n\n900,000 1,000,000 800,000\n\nAdditional Cost ® Biologic ®\n\n$\n\nLength of Stay ®\n\n$0 250,000\n\nTTP TTT ET TEE EEE\n\n.00 28\n\n——\n\nProviders and Networks\n\nOhio State University Medical Center\nHealthRate Institution Index™ (53)\n\nConfidential #3\n\nCase Rate @ Facility Rate @ Biologic Rate as a % of WAC @ Outlier Charge Threshold @\n\n$ 234,000 .00 60 % 100 % $0 oO\n\nAn Award-Winning* SaaS platform that provides the best pricing for high-cost claims\n\n- No impact to quality\n\n- No provider abrasion\n\n- No patient intervention required\n\n- No claims auditing or cash recovery\n\nWhat is HealthRate\n\nSaaS PLATFORM OVERVIEW\n\n01\n\nImage Text:\n© HealthRate\n\nPlatform\n\nThe “GoodRx for catastrophic claims”\n\n* HIMSS 2025 Best In Show Payer Analytics, HealthcareMN 2024 Start Up of the Year Nominee\n\n---\nPage 3\n---\n\n02\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nHEALTHRATE EXPERTISE\n\nHow it Works\n\nBuilt on decades of domain experience, trillions of data points, advanced statistical methods, and recent advancements in AI/ML\n\nHealthRate proactively identifies the optimal source and cost of care.",
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 7841,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md"
+        }
+      ]
+    },
+    "target_customers": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "competitive_advantage": {
+      "value": "Maintains complete independence and objectivity and does not accept external compensation",
+      "answer": "The deck states the company maintains complete independence and does not accept external compensation.",
+      "evidence": [
+        {
+          "quote": "We maintain complete independence and objectivity and do not accept external compensation",
+          "surrounding_context": "a points, advanced statistical methods, and recent advancements in AI/ML\n\nHealthRate proactively identifies the optimal source and cost of care.\n\nPAYMENT OPTIMIZATION &\n\nDECISION SUPPORT\n\n- Sign contract\n\n- Onboard (2 weeks on average)\n\n- Training included\n\n- Secure solo tenant established\n\n- Contracts loaded\n\n- Run HealthRate check\n\n- Save money!\n\n---\nPage 4\n---\n\nWhat Do I Get?\n\nHEALTHRATE SOLUTION\n\nRETURN ON INVESTMENT\n\n.\n\nPrevents dollars from ever going out the door driving immediate bottom-line impact in the millions\n\nUNPRECEDENTED\n\n.\n\nWe are NOT a transparency data provider and we are NOT a patient navigation or COE solution\n\nUNBIASED\n\nWe maintain complete independence and objectivity and do not accept external compensation\n\nREAL-TIME\n\n.\n\nHealthRate is always current with your data, available 24x7 and responds within seconds\n\n03\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nFIDUCIARY\n\n.\n\nA detailed cost analysis is completed and available for your review for each and EVERY case resulting in $50,000 - $1,000,000+ in savings per case\n\nImage Text:\nPROPRIETARY AND CONFIDENTIAL,\n\nQa HealthRate alithias\n\nTransplant - Liver sabia: Use nesta)\n\nMesium Severity Simulation\n\nii\nIl\n\n| Metric Billable Charges\n: Evaluation Cost so\ni Pre-Administration Cost $900,000\nTransplant / Administration Cost _$1,00,000\nsi a a ~ 7 = 1 Post-Adminstration Cost $800,000\neee ‘Addi",
+          "doc_id": "healthrate-ehir-final",
+          "file_name": "healthrate-ehir-final",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 7841,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-ehir-final\\file_llm_feed.md"
+        }
+      ]
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Jeff Sage",
+      "role": "Chief Technology Officer",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "JEFF@HEALTHRATE.IO",
+        "303-877-9067"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "JEFF SAGE\n\nChief Technology Officer\n\nJEFF@HEALTHRATE.IO\n\n303-877-9067",
+          "surrounding_context": "Confidential #2 — Per Diem Cost: N/A\n\nMC: Confidential #1 — Biologic: EQUAL\nMC: Confidential #2 — Biologic: EQUAL\n\nMC: Confidential #1 — Outlier Triggered: YES\nMC: Confidential #2 — Outlier Triggered: NO\n\nMC: Confidential #1 — Minimum Payment Provision Triggered: NO\nMC: Confidential #2 — Minimum Payment Provision Triggered: YES\n\n50th Percentile\n\nTransplant – Heart + Lung\n\nImage Text:\nCost Simulation Results : a\n\nTransplant - Heart | Medium Severity\n\nEO Billing Range Simulation\n\nMedium Severity Simulation\n\nI UCSFMC: Confidential #3\nBE UCSFMC: User Defined Network #1\n“\n\n\"06M, om oaM oom 7\n\n[Client Confidential]\n\nCASE STUDY\n\n06\n\n---\nPage 8\n---\n\nJEFF SAGE\n\nChief Technology Officer\n\nJEFF@HEALTHRATE.IO\n\n303-877-9067\n\nThank you\n\nFOR YOUR TIME\n\nImage Text:\nai)\n\nHealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\n---\nPage 9\n---\n\nImage Text:\n© HealthRate\n\nPROPRIETARY AND CONFIDENTIAL\n\nHEALTHRATE EXPERTISE\n\nHow It Works\n\nSpecialty Contracting Expertise + Legislative Changes\n\nAdvanced Actuarial Expertise\n\nDe-Mystified\n\n- Niche industry experts who have defined the industries payment methodologies, levers, and triggers for specialty reimbursement\n\n- Transparency in Coverage and No Surprises Act have triggered increased competition\n\n- Decades of real-world data\n\n- Proprietary Artificial Intelligence(AI) to ingest and process payment terms\n\n- Advance statistical analysis",
+          "doc_id": "healthrate-ehir-final",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

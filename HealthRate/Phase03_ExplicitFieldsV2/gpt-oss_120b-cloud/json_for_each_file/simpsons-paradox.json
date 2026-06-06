@@ -1,0 +1,394 @@
+{
+  "doc_id": "simpsons-paradox",
+  "file_name": "simpsons-paradox",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "HealthRate provides advisory analytics to help self‑funded employers and their consultants manage high‑cost medical claim risk.",
+  "long_summary": "The document describes HealthRate's advisory analytics service aimed at self‑funded employers, benefits consultants, and brokers. It highlights the problem of rare but extremely costly medical events that can exceed stop‑loss limits. HealthRate's solution includes flagging internal provider rate variance, modeling stop‑loss exposure, comparing clinical outcomes and reimbursement rates, and identifying lower‑cost service opportunities. The business model is the sale of advisory and analytics services to these target customers.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "The document states the company name as HealthRate.",
+      "evidence": [
+        {
+          "quote": "With HealthRate, you shift the client conversation",
+          "surrounding_context": "erapies marked up by hundreds of thousands (sometimes millions)\n\n-  Specialty networks charging 20-40% more than direct contracts for identical cases\n\n## How Advisors Use HealthRate to Win on Risk Management\n\nWe help you intervene before the bill arrives by:\n\n-  Flagging internal provider rate variance across networks\n\n-  Modeling stop-loss exposure before the claim hits\n\n-  Comparing clinical outcomes and reimbursement rates\n\n-  Identify opportunities for high-quality, lower cost services\n\n## This Is an Advisory Moment\n\nFor brokers and consultants, managing million-dollar claim risk isn't optional-it's where strategic value is proven.\n\nWith HealthRate, you shift the client conversation from 'That'll probably never happen' to 'Here's exactly how we're protecting your plan from it.'\n\n## Bottom Line: The Paradox Holds\n\nEach event may be rare. But some event will happen.\n\nThe only irrational move? Believing otherwise.\n\n## Ready to protect your plan from the next million-dollar surprise?\n\nIf you're a benefits consultant or self-funded employer, contact us for a free exposure analysis, or preview our analytics tools in action.",
+          "doc_id": "simpsons-paradox",
+          "file_name": "simpsons-paradox",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3030,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [
+        "Healthcare"
+      ],
+      "answer": "The document mentions the healthcare sector.",
+      "evidence": [
+        {
+          "quote": "In healthcare, self-funded employers fall into the same trap every day",
+          "surrounding_context": "# Simpsons Paradox.pdf\n\n---\nPage 1\n---\n\nIn philosophy, the Lottery Paradox asks: If you know one ticket will win, but each ticket is unlikely to win, is it rational to believe each ticket will lose?\n\nIt's a cautionary tale about how we misjudge low-probability, high-impact events.\n\nIn healthcare, self-funded employers fall into the same trap every day, especially with organ transplants, gene therapies, and CAR-T treatments. The cost of this thinking? Seven-figure claims that blow past stop-loss.\n\n## 'It's Unlikely to Happen to Us…'\n\nEmployers aren't wrong. Each catastrophic event is rare. But here's the paradox: Individually unlikely ≠ Collectively avoidable.\n\nWith the pace of medical innovation, the probability that something high-cost will hit your plan is not 'if,' it's 'when.'\n\nYou're not betting on a single ticket. You're holding the entire raƯle.\n\n## For Self-Funded Employers and Their Advisors: This Is Not Theoretical\n\nIf you're a benefits consultant or broker, you've likely heard",
+          "doc_id": "simpsons-paradox",
+          "file_name": "simpsons-paradox",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3030,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "HealthRate provides risk‑management analytics and advisory services for self‑funded employers to protect against high‑cost medical events.",
+      "answer": "The document describes HealthRate as providing risk‑management analytics and advisory services for self‑funded employers to protect against high‑cost medical events.",
+      "evidence": [
+        {
+          "quote": "With HealthRate, you shift the client conversation from 'That’ll probably never happen' to 'Here’s exactly how we’re protecting your plan from it.'",
+          "surrounding_context": "# Simpsons Paradox.pdf\n\n---\nPage 1\n---\n\nIn philosophy, the Lottery Paradox asks: If you know one ticket will win, but each ticket is unlikely to win, is it rational to believe each ticket will lose?\n\nIt's a cautionary tale about how we misjudge low-probability, high-impact events.\n\nIn healthcare, self-funded employers fall into the same trap every day, especially with organ transplants, gene therapies, and CAR-T treatments. The cost of this thinking? Seven-figure claims that blow past stop-loss.\n\n## 'It's Unlikely to Happen to Us…'\n\nEmployers aren't wrong. Each catastrophic event is rare. But here's the paradox: Individually unlikely ≠ Collectively avoidable.\n\nWith the pace of medical innovation, the probability that something high-cost will hit your plan is not 'if,' it's 'when.'\n\nYou're not betting on a single ticket. You're holding the entire raƯle.\n\n## For Self-Funded Employers and Their Advisors: This Is Not Theoretical\n\nIf you're a benefits consultant or broker, you've likely heard 'These treatments are edge cases, so we don't need to prioritize them.'\n\n## The data says otherwise:\n\n-  69,000+ U.S. transplants each year\n\n-  CAR-T therapy use growing rapidly, especially in younger cancer patients\n\n-  Gene therapies accelerating, with multiple $2-3M FDA-approved treatments\n...[truncated]",
+          "doc_id": "simpsons-paradox",
+          "file_name": "simpsons-paradox",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3030,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "company_solution": {
+      "value": "Flagging internal provider rate variance, modeling stop‑loss exposure, comparing clinical outcomes and reimbursement rates, and identifying lower‑cost service opportunities.",
+      "answer": "HealthRate's solution includes flagging internal provider rate variance, modeling stop‑loss exposure, comparing clinical outcomes and reimbursement rates, and identifying lower‑cost service opportunities.",
+      "evidence": [
+        {
+          "quote": "We help you intervene before the bill arrives by: • Flagging internal provider rate variance across networks • Modeling stop‑loss exposure before the claim hits • Comparing clinical outcomes and reimbursement rates • Identify opportunities for high-quality, lower cost services",
+          "surrounding_context": "# Simpsons Paradox.pdf\n\n---\nPage 1\n---\n\nIn philosophy, the Lottery Paradox asks: If you know one ticket will win, but each ticket is unlikely to win, is it rational to believe each ticket will lose?\n\nIt's a cautionary tale about how we misjudge low-probability, high-impact events.\n\nIn healthcare, self-funded employers fall into the same trap every day, especially with organ transplants, gene therapies, and CAR-T treatments. The cost of this thinking? Seven-figure claims that blow past stop-loss.\n\n## 'It's Unlikely to Happen to Us…'\n\nEmployers aren't wrong. Each catastrophic event is rare. But here's the paradox: Individually unlikely ≠ Collectively avoidable.\n\nWith the pace of medical innovation, the probability that something high-cost will hit your plan is not 'if,' it's 'when.'\n\nYou're not betting on a single ticket. You're holding the entire raƯle.\n\n## For Self-Funded Employers and Their Advisors: This Is Not Theoretical\n\nIf you're a benefits consultant or broker, you've likely heard 'These treatments are edge cases, so we don't need to prioritize them.'\n\n## The data says otherwise:\n\n-  69,000+ U.S. transplants each year\n\n-  CAR-T therapy use growing rapidly, especially in younger cancer patients\n\n-  Gene therapies accelerating, with multiple $2-3M FDA-approved treatments\n...[truncated]",
+          "doc_id": "simpsons-paradox",
+          "file_name": "simpsons-paradox",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3030,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md"
+        }
+      ]
+    },
+    "business_model": {
+      "value": "Advisory and analytics services sold to benefits consultants, brokers, and self‑funded employers.",
+      "answer": "The business model is advisory and analytics services sold to benefits consultants, brokers, and self‑funded employers.",
+      "evidence": [
+        {
+          "quote": "How Advisors Use HealthRate to Win on Risk Management",
+          "surrounding_context": "ey're actuarial certainties.\n\n## When Rare Hits, It Hits Hard\n\nHigh-cost medical events:\n\n---\nPage 2\n---\n\n-  Routinely blow through stop-loss budgets\n\n-  Trigger out-of-network costs (even at 'in-network' hospitals)\n\n-  Are often managed via carve-out networks with poor transparency\n\n-  Can vary by $200K-$1M+ depending on routing and contract type\n\n## At HealthRate, we see:\n\n-  The same hospital billing wildly diƯerent rates for the same transplant based on referral source\n\n-  Gene therapies marked up by hundreds of thousands (sometimes millions)\n\n-  Specialty networks charging 20-40% more than direct contracts for identical cases\n\n## How Advisors Use HealthRate to Win on Risk Management\n\nWe help you intervene before the bill arrives by:\n\n-  Flagging internal provider rate variance across networks\n\n-  Modeling stop-loss exposure before the claim hits\n\n-  Comparing clinical outcomes and reimbursement rates\n\n-  Identify opportunities for high-quality, lower cost services\n\n## This Is an Advisory Moment\n\nFor brokers and consultants, managing million-dollar claim risk isn't optional-it's where strategic value is proven.\n\nWith HealthRate, you shift the client conversation from 'That'll probably never happen' to 'Here's exactly how we're protecting your plan from it.'\n\n## Bottom Line: The Paradox Holds\n\nEach event may be rare.",
+          "doc_id": "simpsons-paradox",
+          "file_name": "simpsons-paradox",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3030,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md"
+        }
+      ]
+    },
+    "target_customers": {
+      "value": [
+        "benefits consultants",
+        "brokers",
+        "self‑funded employers"
+      ],
+      "answer": "- benefits consultants\n- brokers\n- self‑funded employers",
+      "evidence": [
+        {
+          "quote": "If you're a benefits consultant or self‑funded employer, contact us for a free exposure analysis",
+          "surrounding_context": "# Simpsons Paradox.pdf\n\n---\nPage 1\n---\n\nIn philosophy, the Lottery Paradox asks: If you know one ticket will win, but each ticket is unlikely to win, is it rational to believe each ticket will lose?\n\nIt's a cautionary tale about how we misjudge low-probability, high-impact events.\n\nIn healthcare, self-funded employers fall into the same trap every day, especially with organ transplants, gene therapies, and CAR-T treatments. The cost of this thinking? Seven-figure claims that blow past stop-loss.\n\n## 'It's Unlikely to Happen to Us…'\n\nEmployers aren't wrong. Each catastrophic event is rare. But here's the paradox: Individually unlikely ≠ Collectively avoidable.\n\nWith the pace of medical innovation, the probability that something high-cost will hit your plan is not 'if,' it's 'when.'\n\nYou're not betting on a single ticket. You're holding the entire raƯle.\n\n## For Self-Funded Employers and Their Advisors: This Is Not Theoretical\n\nIf you're a benefits consultant or broker, you've likely heard 'These treatments are edge cases, so we don't need to prioritize them.'\n\n## The data says otherwise:\n\n-  69,000+ U.S. transplants each year\n\n-  CAR-T therapy use growing rapidly, especially in younger cancer patients\n\n-  Gene therapies accelerating, with multiple $2-3M FDA-approved treatments\n...[truncated]",
+          "doc_id": "simpsons-paradox",
+          "file_name": "simpsons-paradox",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3030,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\simpsons-paradox\\file_llm_feed.md"
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": []
+}

@@ -1,0 +1,37 @@
+{
+  "doc_id": "srtr-screenshot",
+  "file_name": "srtr-screenshot",
+  "document_category": "Product demo / screenshots",
+  "short_summary": "Screenshot showing comparative cost savings and rates for transplant administration services",
+  "long_summary": "The document is a screenshot from a presentation titled 'SRTR screenshot.pptx', displaying metrics related to transplant cost savings, administration costs, biologic rates, and SRTR quality measures, with a footer indicating 'em HealthRate'.",
+  "final_fields": {
+    "company_name": {
+      "value": "em HealthRate",
+      "answer": "Company name appears as 'em HealthRate' in the image text",
+      "evidence": [
+        {
+          "quote": "Image Text: em HealthRate",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": "Healthcare",
+      "answer": "Content relates to transplant services and SRTR quality measures, indicating healthcare sector",
+      "evidence": [
+        {
+          "quote": "SRTR Quality Measures,",
+          "page_start": 1,
+          "page_end": 1,
+          "source_chunk_index": null
+        }
+      ]
+    }
+  },
+  "key_people": [],
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-screenshot\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-screenshot",
+  "chunk_count": 1
+}

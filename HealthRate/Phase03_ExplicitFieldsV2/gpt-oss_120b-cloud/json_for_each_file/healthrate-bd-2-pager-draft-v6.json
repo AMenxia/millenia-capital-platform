@@ -1,0 +1,655 @@
+{
+  "doc_id": "healthrate-bd-2-pager-draft-v6",
+  "file_name": "healthrate-bd-2-pager-draft-v6",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6",
+  "document_category": "Pitch deck / investor deck",
+  "short_summary": "HealthRate is an independent platform that provides real‑time network pricing for high‑cost healthcare claims, addressing price irrationality. The pre‑seed deck shows a $1M raise, a production product, $9M+ pipeline ARR, 87% gross margins, a $500M‑$1.8B TAM, and a team led by Founder & CEO Tim Michaels.",
+  "long_summary": "HealthRate offers a B2B SaaS infrastructure platform that compares and procures real‑time network pricing for high‑cost healthcare claims, tackling extreme pricing volatility and price irrationality. The company targets payers, TPAs, self‑funded plans, and employers, and claims a structural moat because networks cannot compete due to conflict of interest. It has a production product with a $9M+ pipeline ARR, 87% gross margins, and a $500M‑$1.8B total addressable market. The team is led by Founder & CEO Tim Michaels, supported by an advisory board including Paul Stordahl, Geoff Bartsh, Robert Van Why, and Mark Nathan. The company raised $1M pre‑seed from First Trust Capital Partners and plans to use proceeds to close the pipeline, scale the platform, expand data ingestion and actuarial modeling, and enhance operations. A recent Cornell/SCOTUS ruling creates mandatory fiduciary tooling for plan pricing, providing regulatory exposure that underpins the business opportunity.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "HealthRate (as indicated)",
+      "evidence": [
+        {
+          "quote": "HealthRate is the only independent catastrophic-claims pricing engine",
+          "surrounding_context": "# HealthRate BD 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = M",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": "www.healthrate.io",
+      "answer": "www.healthrate.io (as indicated)",
+      "evidence": [
+        {
+          "quote": "www.healthrate.io",
+          "surrounding_context": "ate required fiduciary tooling for all self-funded plans ($1-3B exit)\n\n- Consumer platform - 'Kayak for Healthcare' ($3-10B exit)\n\nThree independent billiondollar outcomes. We don't need all three. Any one path returns the fund.\n\n## USE OF PROCEEDS\n\n- Close current pipeline & expand sales (40%)\n\n- Scale platform, compliance features, and integrations (30%)\n\n- Data ingestion & actuarial modeling expansion (15%)\n\n- Operations & customer success (15%)\n\nExtends our lead in an uncontested market and positions HealthRate to scale rapidly as imminent payer and TPA deals close\n\n## CONTACT\n\nTim Michaels, Founder & CEO (612) 747-5927 tim@healthrate.io www.healthrate.io\n\n10784.01",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "industry_or_sector": {
+      "value": [
+        "high-cost healthcare claims"
+      ],
+      "answer": "- high-cost healthcare claims",
+      "evidence": [
+        {
+          "quote": "real-time network pricing for high-cost healthcare claims",
+          "surrounding_context": "# HealthRate BD 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural m",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility",
+      "answer": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility (as stated).",
+      "evidence": [
+        {
+          "quote": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility",
+          "surrounding_context": "# HealthRate BD 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "price irrationality and extreme pricing volatility in high-cost healthcare claims",
+      "answer": "price irrationality and extreme pricing volatility in high-cost healthcare claims (as stated).",
+      "evidence": [
+        {
+          "quote": "Turning Price Irrationality Into Dollars",
+          "surrounding_context": "# HealthRate BD 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, sign",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "independent platform that compares and procures real-time network pricing for high-cost healthcare claims",
+      "answer": "independent platform that compares and procures real-time network pricing for high-cost healthcare claims (as stated).",
+      "evidence": [
+        {
+          "quote": "The only independent platform that compares and procures real-time network pricing for high-cost healthcare claims",
+          "surrounding_context": "# HealthRate BD 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural m",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "business_model": {
+      "value": "B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop‑loss",
+      "answer": "B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop‑loss (as stated).",
+      "evidence": [
+        {
+          "quote": "B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop-loss",
+          "surrounding_context": "Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE TEAM\n\nTim Michaels, CEO 30-year insider in healthcare with deep expertise in specialty care pricing, network contracting, actuarial modeling, and fiduciary analytics at Optum / Ingenix / PwC. Key Advisory Board Members:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software\n\nExpertise + asymmetric knowledge = decisive execution advantage.\n\n## THREE PATHS TO UNICORN\n\n- B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop-loss ($500M-1B exit)\n\n- Post-Cornell compliance mandate required fiduciary tooling for all self-funded plans ($1-3B exit)\n\n- Consumer platform - 'Kayak for Healthcare' ($3-10B exit)\n\nThree independent billiondollar outcomes. We don't need all three. Any one path returns the fund.\n\n## USE OF PROCEEDS\n\n- Close current pipeline & expand sales (40%)\n\n- Scale platform, compliance features, and integrations (30%)\n\n- Data ingestion & actuarial modeling expansion (15%)\n\n- Operations & customer success (15%)\n\nExtends our lead in an uncontested market and positions HealthRate to scale rapidly as imminent payer and TPA deals close\n\n## CONTACT\n\nTim Michaels,",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "target_customers": {
+      "value": [
+        "payers",
+        "TPAs",
+        "self‑funded plans",
+        "employers"
+      ],
+      "answer": "- payers\n- TPAs\n- self‑funded plans\n- employers",
+      "evidence": [
+        {
+          "quote": "B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop-loss",
+          "surrounding_context": "Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE TEAM\n\nTim Michaels, CEO 30-year insider in healthcare with deep expertise in specialty care pricing, network contracting, actuarial modeling, and fiduciary analytics at Optum / Ingenix / PwC. Key Advisory Board Members:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software\n\nExpertise + asymmetric knowledge = decisive execution advantage.\n\n## THREE PATHS TO UNICORN\n\n- B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop-loss ($500M-1B exit)\n\n- Post-Cornell compliance mandate required fiduciary tooling for all self-funded plans ($1-3B exit)\n\n- Consumer platform - 'Kayak for Healthcare' ($3-10B exit)\n\nThree independent billiondollar outcomes. We don't need all three. Any one path returns the fund.\n\n## USE OF PROCEEDS\n\n- Close current pipeline & expand sales (40%)\n\n- Scale platform, compliance features, and integrations (30%)\n\n- Data ingestion & actuarial modeling expansion (15%)\n\n- Operations & customer success (15%)\n\nExtends our lead in an uncontested market and positions HealthRate to scale rapidly as imminent payer and TPA deals close\n\n## CONTACT\n\nTim Michaels,",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": "structural moat (networks can't compete due to conflict of interest) and zero carrier alignment",
+      "answer": "structural moat (networks can't compete due to conflict of interest) and zero carrier alignment (as stated).",
+      "evidence": [
+        {
+          "quote": "structural moat (networks can't compete due to conflict of interest)",
+          "surrounding_context": "hcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting p",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "product_status": {
+      "value": "production product",
+      "answer": "production product (as stated).",
+      "evidence": [
+        {
+          "quote": "Product in production with customers",
+          "surrounding_context": "-Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting plaintiffs\n\n- Annual burn: $800K | Pipeline ARR: $9M+ across major blue plans, regional payers, and TPAs\n\n- Multiple deals are in late-stage contracting with 30 -90 day close timelines\n\n## THE STRUCTURAL MOAT\n\nOptum, Cigna, and other large players CANNOT build this -have conflicts of interest -they profit from the same opaque contracts employers must now justify. HealthRate has zero carrier alignment, giving us a permanent defensibility advantage .\n\nCompetitors: none within 18 - 24 months.\n\n10784.01\n\n---\nPage 2\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality In",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": "$9M+",
+      "answer": "$9M+ (Pipeline ARR, as stated).",
+      "evidence": [
+        {
+          "quote": "Pipeline ARR: $9M+",
+          "surrounding_context": "0M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting plaintiffs\n\n- Annual burn: $800K | Pipeline ARR: $9M+ across major blue plans, regional payers, and TPAs\n\n- Multiple deals are in late-stage contracting with 30 -90 day close timelines\n\n## THE STRUCTURAL MOAT\n\nOptum, Cigna, and other large players CANNOT build this -have conflicts of interest -they profit from the same opaque contracts employers must now justify. HealthRate has zero carrier alignment, giving us a permanent defensibility advantage .\n\nCompetitors: none within 18 - 24 months.\n\n10784.01\n\n---\nPage 2\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare c",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": "87% gross margins",
+      "answer": "87% gross margins (as stated).",
+      "evidence": [
+        {
+          "quote": "87% gross margins",
+          "surrounding_context": "for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customer",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "burn_rate": {
+      "value": "$800K annual burn",
+      "answer": "$800K annual burn (as stated).",
+      "evidence": [
+        {
+          "quote": "Annual burn: $800K",
+          "surrounding_context": "to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting plaintiffs\n\n- Annual burn: $800K | Pipeline ARR: $9M+ across major blue plans, regional payers, and TPAs\n\n- Multiple deals are in late-stage contracting with 30 -90 day close timelines\n\n## THE STRUCTURAL MOAT\n\nOptum, Cigna, and other large players CANNOT build this -have conflicts of interest -they profit from the same opaque contracts employers must now justify. HealthRate has zero carrier alignment, giving us a permanent defensibility advantage .\n\nCompetitors: none within 18 - 24 months.\n\n10784.01\n\n---\nPage 2\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for h",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": "$1M",
+      "answer": "$1M (as stated).",
+      "evidence": [
+        {
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed)",
+          "surrounding_context": "D 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a syste",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [
+        "First Trust Capital Partners"
+      ],
+      "answer": "- First Trust Capital Partners",
+      "evidence": [
+        {
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed)",
+          "surrounding_context": "D 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a syste",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": "pre-seed",
+      "answer": "pre-seed (as stated).",
+      "evidence": [
+        {
+          "quote": "Raised $1M from First Trust Capital Partners(pre-seed)",
+          "surrounding_context": "D 2 Pager DRAFT v6.pdf\n\n---\nPage 1\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality Into Dollars\n\nThe only independent platform that compares and procures real-time network pricing for high-cost healthcare claims with extreme pricing volatility\n\n## THE OPPORTUNITY\n\nHealthRate is the only independent catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a syste",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [
+        "Close current pipeline & expand sales (40%)",
+        "Scale platform, compliance features, and integrations (30%)",
+        "Data ingestion & actuarial modeling expansion (15%)",
+        "Operations & customer success (15%)"
+      ],
+      "answer": "- Close current pipeline & expand sales (40%)\n- Scale platform, compliance features, and integrations (30%)\n- Data ingestion & actuarial modeling expansion (15%)\n- Operations & customer success (15%)",
+      "evidence": [
+        {
+          "quote": "Close current pipeline & expand sales (40%)",
+          "surrounding_context": "bers:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software\n\nExpertise + asymmetric knowledge = decisive execution advantage.\n\n## THREE PATHS TO UNICORN\n\n- B2B SaaS infrastructure enterprise platform adopted by payers, TPAs, stop-loss ($500M-1B exit)\n\n- Post-Cornell compliance mandate required fiduciary tooling for all self-funded plans ($1-3B exit)\n\n- Consumer platform - 'Kayak for Healthcare' ($3-10B exit)\n\nThree independent billiondollar outcomes. We don't need all three. Any one path returns the fund.\n\n## USE OF PROCEEDS\n\n- Close current pipeline & expand sales (40%)\n\n- Scale platform, compliance features, and integrations (30%)\n\n- Data ingestion & actuarial modeling expansion (15%)\n\n- Operations & customer success (15%)\n\nExtends our lead in an uncontested market and positions HealthRate to scale rapidly as imminent payer and TPA deals close\n\n## CONTACT\n\nTim Michaels, Founder & CEO (612) 747-5927 tim@healthrate.io www.healthrate.io\n\n10784.01",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [
+        "Product in production",
+        "HIMSS Best in Show win",
+        "Signed first customer",
+        "$9M+ pipeline ARR"
+      ],
+      "answer": "- Product in production\n- HIMSS Best in Show win\n- Signed first customer\n- $9M+ pipeline ARR",
+      "evidence": [
+        {
+          "quote": "Product in production with customers",
+          "surrounding_context": "-Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting plaintiffs\n\n- Annual burn: $800K | Pipeline ARR: $9M+ across major blue plans, regional payers, and TPAs\n\n- Multiple deals are in late-stage contracting with 30 -90 day close timelines\n\n## THE STRUCTURAL MOAT\n\nOptum, Cigna, and other large players CANNOT build this -have conflicts of interest -they profit from the same opaque contracts employers must now justify. HealthRate has zero carrier alignment, giving us a permanent defensibility advantage .\n\nCompetitors: none within 18 - 24 months.\n\n10784.01\n\n---\nPage 2\n---\n\nImage Text:\nm8 HealthRate\n\n## Turning Price Irrationality In",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [
+        "Cornell / SCOTUS ruling creates ERISA fiduciary obligation for plan pricing"
+      ],
+      "answer": "- Cornell / SCOTUS ruling creates ERISA fiduciary obligation for plan pricing",
+      "evidence": [
+        {
+          "quote": "Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing",
+          "surrounding_context": "e across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting plaintiffs\n\n- Annual burn: $800K | Pipeline ARR: $9M+ across major blue plans, regional payers, and TPAs\n\n- Multiple deals are in late-stage contracting with 30 -90 day close timelines\n\n## THE ST",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [
+        "$500M-$1.8B TAM"
+      ],
+      "answer": "- $500M-$1.8B TAM",
+      "evidence": [
+        {
+          "quote": "$500M-$1.8B TAM",
+          "surrounding_context": "t catastrophic-claims pricing engine built to exploit massive price variance across transplants, oncology, CGT, and other million-dollar cases. We routinely identify $50K -$1M+ per case in savings across payers -while protecting employers and TPAs from postCornell ERISA fiduciary exposure.\n\n## THE THREE-ACT THESIS\n\nAct 1 -We Executed: Raised $1M from First Trust Capital Partners(pre-seed), built production product, won HIMSS Best in Show, signed first customer, built $9M+ pipeline with major payers.\n\n- Act 2 -Strong Business: 87% gross margins, structural moat (networks can't compete due to conflict of interest), clear path to profitability, $500M-$1.8B TAM.\n\nAct 3 -Cornell = Mandatory = Unicorn: In April 2025, the Cornell / SCOTUS ruling clarified that employers + TPAs are fiduciaries for plan pricing. This creates a new compliance obligation: they must demonstrate a prudent, documented process for selecting networks and managing catastrophic claims. When the first $100M ERISA settlement hits (soon), every plan needs a system like HealthRate. Pricing expands from $0.15 PMPM to $1 -3 PMPM as this becomes mandatory infrastructure.\n\n## TRACTION\n\n- Product in production with customers\n\n- Expert witness signed engagement with major law firm recruiting plaintiffs\n\n- Annual burn: $800K | Pipeline ARR",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "file_name": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 3633,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\healthrate-bd-2-pager-draft-v6\\file_llm_feed.md"
+        }
+      ]
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "Founder & CEO",
+      "linkedin_profiles": [],
+      "contact_information": [
+        "(612) 747-5927",
+        "tim@healthrate.io",
+        "www.healthrate.io"
+      ],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Tim Michaels, Founder & CEO (612) 747-5927 tim@healthrate.io www.healthrate.io",
+          "surrounding_context": "## CONTACT\n\nTim Michaels, Founder & CEO (612) 747-5927 tim@healthrate.io www.healthrate.io\n\n10784.01",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Paul Stordahl",
+      "role": "Chief Actuary Emeritus, UnitedHealthcare",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Paul Stordahl - Chief Actuary Emeritus, UnitedHealthcare",
+          "surrounding_context": "Key Advisory Board Members:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Geoff Bartsh",
+      "role": "SVP, Oscar",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Geoff Bartsh - SVP, Oscar",
+          "surrounding_context": "Key Advisory Board Members:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Robert Van Why",
+      "role": "SVP, HealthPartners",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Robert Van Why - SVP, HealthPartners",
+          "surrounding_context": "Key Advisory Board Members:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1
+        }
+      ]
+    },
+    {
+      "full_name": "Mark Nathan",
+      "role": "CEO and Founder, Burrow Software",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "Mark Nathan -CEO and Founder, Burrow Software",
+          "surrounding_context": "Key Advisory Board Members:\n\nPaul Stordahl - Chief Actuary Emeritus, UnitedHealthcare\n\nGeoff Bartsh - SVP, Oscar\n\nRobert Van Why - SVP, HealthPartners\n\nMark Nathan -CEO and Founder, Burrow Software",
+          "doc_id": "healthrate-bd-2-pager-draft-v6",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}

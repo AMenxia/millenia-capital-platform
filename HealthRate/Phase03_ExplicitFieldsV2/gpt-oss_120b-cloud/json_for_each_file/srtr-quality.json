@@ -1,0 +1,423 @@
+{
+  "doc_id": "srtr-quality",
+  "file_name": "srtr-quality",
+  "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md",
+  "phase1_folder": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality",
+  "document_category": "Investor update",
+  "short_summary": "HealthRate, a Minneapolis-based SaaS platform for comparing high-cost medical case rates, announced integration of SRTR quality data to let users evaluate transplant providers by cost and quality.",
+  "long_summary": "HealthRate, an award‑winning SaaS application headquartered in Minneapolis, MN, specializes in comparing network‑contracted rates for high‑cost medical cases such as transplants, CAR‑T, and gene therapy. The company announced that it has integrated Scientific Registry of Transplant Recipients (SRTR) quality data into its platform, allowing users to assess transplant providers on both cost savings and gold‑standard quality metrics. This integration addresses the problem of lacking combined cost and quality data for transplant provider evaluation. Tim Michaels, CEO of HealthRate, emphasized that the new data empowers payers, providers, and patients to make value‑driven decisions. Target customers include payers, providers, and patients.",
+  "final_fields": {
+    "company_name": {
+      "value": "HealthRate",
+      "answer": "HealthRate",
+      "evidence": [
+        {
+          "quote": "Minneapolis, MN - HealthRate, an award-winning SaaS application...",
+          "surrounding_context": "# SRTR Quality.pdf\n\n---\nPage 1\n---\n\nMinneapolis, MN - HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR-T, and gene therapy, is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data. Recently named Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for its groundbreaking work in improving data and analytics capabilities in the payer category, HealthRate continues to lead the industry by incorporating SRTR's gold-standard transplant quality metrics into its platform.\n\nThis integration empowers HealthRate users to evaluate transplant provi",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "legal_company_name": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "website": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "industry_or_sector": {
+      "value": [
+        "Healthcare SaaS"
+      ],
+      "answer": "Healthcare SaaS",
+      "evidence": [
+        {
+          "quote": "award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases",
+          "surrounding_context": "# SRTR Quality.pdf\n\n---\nPage 1\n---\n\nMinneapolis, MN - HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR-T, and gene therapy, is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data. Recently named Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for its groundbreaking work in improving data and analytics capabilities in the payer category, HealthRate continues to lead the industry by incorporating SRTR's gold-standard transplant quality metrics into its platform.\n\nThis integration empowers HealthRate users to evaluate transplant providers not only by cost savings but also by critical quality measures, ensuring decisions that prioritize both value",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_stage_or_company_idea": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "headquarters_location": {
+      "value": "Minneapolis, MN",
+      "answer": "Minneapolis, MN",
+      "evidence": [
+        {
+          "quote": "Minneapolis, MN - HealthRate",
+          "surrounding_context": "# SRTR Quality.pdf\n\n---\nPage 1\n---\n\nMinneapolis, MN - HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR-T, and gene therapy, is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data. Recently named Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for its groundbreaking work in improving data and analytics capabilities in the payer category, HealthRate continues to lead the industry by incorporating SRTR's gold-standard transplant quality metrics into its platform.\n\nThis integration empowers HealthRate users to evaluate transplant provi",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "incorporation_location": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "year_founded": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "legal_entity_structure": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "one_line_description": {
+      "value": "Award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR‑T, and gene therapy.",
+      "answer": "Award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR‑T, and gene therapy.",
+      "evidence": [
+        {
+          "quote": "HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR‑T, and gene therapy",
+          "surrounding_context": "# SRTR Quality.pdf\n\n---\nPage 1\n---\n\nMinneapolis, MN - HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR-T, and gene therapy, is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data. Recently named Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for its groundbreaking work in improving data and analytics capabilities in the payer category, HealthRate continues to lead the industry by incorporating SRTR's gold-standard transplant quality metrics into its platform.\n\nThis integration empowers HealthRate users to evaluate transplant providers not only by cost savings but also by critical quality measures, ensuring decisions that prioritize both value and patient outcomes.\n\n## What is SRTR?\n\nThe Scientific Registry of Transplant Recipients (SRTR) is a federally funded database that collects, analyzes, and publicly reports on the performance of all solid organ transplant programs and organ procurement organizations in theUnited States. Operating under contract with the Health Resources and Services Administration (HRSA) and in coordination with the Organ Procurement and Transplantation Network (OPTN), SRTR is recog\n...[truncated]",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_problem": {
+      "value": "Lack of integrated cost and quality data for evaluating transplant providers.",
+      "answer": "Lack of integrated cost and quality data for evaluating transplant providers.",
+      "evidence": [
+        {
+          "quote": "evaluate transplant providers not only by cost savings but also by critical quality measures",
+          "surrounding_context": "neapolis, MN - HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR-T, and gene therapy, is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data. Recently named Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for its groundbreaking work in improving data and analytics capabilities in the payer category, HealthRate continues to lead the industry by incorporating SRTR's gold-standard transplant quality metrics into its platform.\n\nThis integration empowers HealthRate users to evaluate transplant providers not only by cost savings but also by critical quality measures, ensuring decisions that prioritize both value and patient outcomes.\n\n## What is SRTR?\n\nThe Scientific Registry of Transplant Recipients (SRTR) is a federally funded database that collects, analyzes, and publicly reports on the performance of all solid organ transplant programs and organ procurement organizations in theUnited States. Operating under contract with the Health Resources and Services Administration (HRSA) and in coordination with the Organ Procurement and Transplantation Network (OPTN), SRTR is recognized as the gold standard for transplant quality metrics due to its comprehensive, independent, and publicly accessible data.\n\nSRT",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "company_solution": {
+      "value": "Integration of SRTR Program‑Specific Reports into the HealthRate platform, delivering actionable quality metrics alongside cost data.",
+      "answer": "Integration of SRTR Program‑Specific Reports into the HealthRate platform, delivering actionable quality metrics alongside cost data.",
+      "evidence": [
+        {
+          "quote": "HealthRate now incorporates SRTR's Program‑Specific Reports into its transplant provider evaluations, providing users with actionable quality metrics alongside its robust cost data",
+          "surrounding_context": "# SRTR Quality.pdf\n\n---\nPage 1\n---\n\nMinneapolis, MN - HealthRate, an award-winning SaaS application specializing in comparing network contracted rates for high-cost medical cases such as transplants, CAR-T, and gene therapy, is proud to announce its integration with the Scientific Registry of Transplant Recipients (SRTR) quality data. Recently named Best in Show in the Emerge Innovation Experience Contest at HIMSS25 for its groundbreaking work in improving data and analytics capabilities in the payer category, HealthRate continues to lead the industry by incorporating SRTR's gold-standard transplant quality metrics into its platform.\n\nThis integration empowers HealthRate users to evaluate transplant providers not only by cost savings but also by critical quality measures, ensuring decisions that prioritize both value and patient outcomes.\n\n## What is SRTR?\n\nThe Scientific Registry of Transplant Recipients (SRTR) is a federally funded database that collects, analyzes, and publicly reports on the performance of all solid organ transplant programs and organ procurement organizations in theUnited States. Operating under contract with the Health Resources and Services Administration (HRSA) and in coordination with the Organ Procurement and Transplantation Network (OPTN), SRTR is recog\n...[truncated]",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "business_model": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_customers": {
+      "value": [
+        "payers",
+        "providers",
+        "patients"
+      ],
+      "answer": "- payers\n- providers\n- patients",
+      "evidence": [
+        {
+          "quote": "This is a game-changer for payers, providers, and patients alike.",
+          "surrounding_context": "sers to balance cost-eƯectiveness with clinical quality, supporting value-driven decisions that optimize patientout comes. For a deeper look at each provider's full performance and the methodology behind these metrics, complete reports are available on SRTR.org.\n\n---\nPage 2\n---\n\n## Commitment to High-Quality Outcomes\n\n'Health Rate is dedicated to ensuring high-quality outcomes for patients while delivering unparalleled transparency into healthcare costs,' said Tim Michaels, CEO of HealthRate. 'By integrating SRTR's gold-standard quality data, we're empowering our users to make informed decisions that align cost savings with exceptional care. This is a game-changer for payers, providers, and patients alike.'",
+          "doc_id": "srtr-quality",
+          "file_name": "srtr-quality",
+          "chunk_index": 1,
+          "start_char": 0,
+          "end_char": 2929,
+          "source_markdown_file": "C:\\Users\\amenx\\Desktop\\HealthRate\\Phase 01_TextExtraction\\srtr-quality\\file_llm_feed.md"
+        }
+      ]
+    },
+    "competitive_advantage": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "product_status": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "revenue": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mrr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "arr": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "growth_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "gross_margin": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "burn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "runway_months": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cash_on_hand": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cac": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ltv_cac_ratio": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "payback_period": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "amount_raised_to_date": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "cap_table_summary": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "previous_investors": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_last_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "target_raise_amount": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "minimum_investment": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "valuation_current_ask": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "pre_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "post_money_valuation": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "current_round": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "instrument": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "use_of_funds": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "funding_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_total": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "users_active": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "dau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "mau": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "sales_pipeline": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "conversion_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "average_order_value": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "retention_rates": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "churn_rate": {
+      "value": null,
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "engagement_metrics": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "partnerships": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "contracts_signed": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "lois": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_milestones": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "key_hires": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "incorporation_documents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "ip_ownership": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "trademarks_patents": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "regulatory_exposure": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "risk_disclosures": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    },
+    "market_size": {
+      "value": [],
+      "answer": "The documents do not clearly state this.",
+      "evidence": []
+    }
+  },
+  "key_people": [
+    {
+      "full_name": "Tim Michaels",
+      "role": "CEO of HealthRate",
+      "linkedin_profiles": [],
+      "contact_information": [],
+      "prior_exits_experience": [],
+      "education": [],
+      "document_risk_notes": [],
+      "evidence": [
+        {
+          "quote": "'Health Rate is dedicated to ensuring high-quality outcomes for patients while delivering unparalleled transparency into healthcare costs,' said Tim Michaels, CEO of HealthRate.",
+          "surrounding_context": "rusted resource for patients, clinicians, payers, and policymakers.\n\n## HealthRate's Integration of SRTR Data\n\nHealthRate now incorporates SRTR's Program-Specific Reports into its transplant provider evaluations, providing users with actionable quality metrics alongside its robust cost data. This integration enables HealthRate users to balance cost-eƯectiveness with clinical quality, supporting value-driven decisions that optimize patientout comes. For a deeper look at each provider's full performance and the methodology behind these metrics, complete reports are available on SRTR.org.\n\n---\nPage 2\n---\n\n## Commitment to High-Quality Outcomes\n\n'Health Rate is dedicated to ensuring high-quality outcomes for patients while delivering unparalleled transparency into healthcare costs,' said Tim Michaels, CEO of HealthRate. 'By integrating SRTR's gold-standard quality data, we're empowering our users to make informed decisions that align cost savings with exceptional care. This is a game-changer for payers, providers, and patients alike.'",
+          "doc_id": "srtr-quality",
+          "chunk_index": 1
+        }
+      ]
+    }
+  ]
+}
