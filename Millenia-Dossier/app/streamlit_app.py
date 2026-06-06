@@ -66,12 +66,67 @@ config = get_config()
 st.title("Millenia Dossier")
 st.caption("Docling → LLM table correction → VLM visual review → 56-field company dossier with evidence")
 
+PHASE_LABELS = ["Upload", "Docling", "Review", "Tables", "VLM", "Feed", "Extract", "Excel"]
+
+def phase_status(run_path: Path) -> list[bool]:
+    p = Path(run_path)
+    return [
+        any((p / "input").iterdir()) if (p / "input").exists() else False,
+        (p / "run_manifest.json").exists(),
+        (p / "layout_items.json").exists(),
+        (p / "cleaned_tables.json").exists(),
+        (p / "image_summaries.json").exists(),
+        (p / "file_llm_feed.md").exists(),
+        (p / "company_dossier_merged.json").exists(),
+        (p / "millenia_dossier_export.xlsx").exists(),
+    ]
+
+def phase_count(run_path: Path) -> tuple[int, int]:
+    statuses = phase_status(run_path)
+    return sum(statuses), len(statuses)
+
 with st.sidebar:
+    runs_dir_raw = st.text_input("Runs Directory", value=str(config.runs_dir))
+    runs_dir = Path(runs_dir_raw)
+
+    avail_runs = sorted(runs_dir.glob("millenia_*"), reverse=True) if runs_dir.exists() else []
+    cur_run_name = Path(st.session_state.run_dir).name if st.session_state.run_dir else None
+    default_idx = 0
+    for i, r in enumerate(avail_runs):
+        if r.name == cur_run_name:
+            default_idx = i
+            break
+
+    run_labels = []
+    for r in avail_runs:
+        d, t = phase_count(r)
+        run_labels.append(f"{r.name[:25]} — {d}/{t}")
+
+    st.markdown("### Select Run")
+    if run_labels:
+        chosen = st.selectbox("Run", run_labels, index=default_idx, label_visibility="collapsed")
+        idx = run_labels.index(chosen)
+        chosen_path = avail_runs[idx]
+        if str(chosen_path) != st.session_state.run_dir:
+            st.session_state.run_dir = str(chosen_path)
+            input_dir = chosen_path / "input"
+            st.session_state.uploaded_paths = [str(f) for f in sorted(input_dir.iterdir())] if input_dir.exists() else []
+            st.rerun()
+
+        sel_statuses = phase_status(chosen_path)
+        cols = st.columns(len(PHASE_LABELS))
+        for ci, (label, ok) in enumerate(zip(PHASE_LABELS, sel_statuses)):
+            with cols[ci]:
+                st.markdown(f"{'✅' if ok else '⬜'}")
+                st.caption(label)
+    else:
+        st.info("No runs yet. Create one in the Upload tab.")
+
+    st.divider()
     st.header("Settings")
     llm_model = st.text_input("LLM Model", value=config.llm_model)
     vlm_model = st.text_input("VLM Model", value=config.vlm_model)
     ollama_url = st.text_input("Ollama URL", value=config.ollama_url)
-    runs_dir = Path(st.text_input("Runs Directory", value=str(config.runs_dir)))
     st.divider()
     st.write("Optional switches")
     use_llm_table_correction = st.toggle("Use LLM table correction", value=True)
