@@ -6,3 +6,11 @@ Millenia-Dossier/runs/
 _revert_backups/
 .venv/
 venv/
+
+# Exclude old source projects
+HealthRate/
+document-intelligence-lab-main/
+
+# Exclude all .md files except README.md
+*.md
+!README.md
