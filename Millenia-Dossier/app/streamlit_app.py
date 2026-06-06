@@ -94,7 +94,73 @@ with tabs[0]:
     st.write("Upload files individually or scan an entire folder recursively.")
 
     uploaded = st.file_uploader("Upload files individually", type=sorted(SUPPORTED_EXTENSIONS), accept_multiple_files=True)
-    folder_path = st.text_input("Or enter a folder path to scan recursively", value="", placeholder="C:\\path\\to\\documents")
+
+    if "browse_active" not in st.session_state:
+        st.session_state.browse_active = False
+    if "browse_path" not in st.session_state:
+        st.session_state.browse_path = ""
+    if "browse_selected" not in st.session_state:
+        st.session_state.browse_selected = ""
+
+    bcol1, bcol2, bcol3 = st.columns([2, 1, 1])
+    with bcol1:
+        folder_path = st.text_input(
+            "Or scan a folder recursively",
+            value=st.session_state.browse_selected or "",
+            placeholder="C:\\path\\to\\documents",
+            key="folder_path_input",
+        )
+    with bcol2:
+        st.markdown("###")
+        if st.button("Browse…", use_container_width=True):
+            st.session_state.browse_active = not st.session_state.browse_active
+            if st.session_state.browse_active and not st.session_state.browse_path:
+                import string as _s
+                _drives = [f"{_d}:\\" for _d in _s.ascii_uppercase if Path(f"{_d}:\\").exists()]
+                st.session_state.browse_path = _drives[0] if _drives else "C:\\"
+    with bcol3:
+        st.markdown("###")
+        if st.button("Clear", use_container_width=True, disabled=not st.session_state.browse_selected):
+            st.session_state.browse_selected = ""
+            st.session_state.browse_path = ""
+            st.rerun()
+
+    if st.session_state.browse_active:
+        st.markdown("---")
+        st.markdown("**Browse filesystem**")
+        _cur = Path(st.session_state.browse_path)
+        ncol1, ncol2, ncol3 = st.columns([1, 5, 1])
+        with ncol1:
+            if _cur.parent != _cur:
+                if st.button("⬆ Up"):
+                    st.session_state.browse_path = str(_cur.parent)
+                    st.rerun()
+        with ncol2:
+            st.caption(f"📁 {_cur}")
+        with ncol3:
+            if st.button("Select"):
+                st.session_state.browse_selected = str(_cur)
+                st.session_state["folder_path_input"] = str(_cur)
+                st.session_state.browse_active = False
+                st.rerun()
+        try:
+            _subdirs = sorted([d for d in _cur.iterdir() if d.is_dir()])
+            if _subdirs:
+                _chosen = st.selectbox(
+                    "Subdirectories",
+                    [""] + [str(d.name) for d in _subdirs],
+                    format_func=lambda x: x if x else "— choose directory —",
+                )
+                if _chosen:
+                    st.session_state.browse_path = str(_cur / _chosen)
+                    st.rerun()
+            else:
+                st.info("Empty directory")
+        except PermissionError:
+            st.warning("Access denied")
+        except OSError as _e:
+            st.warning(str(_e))
+        st.markdown("---")
 
     col1, col2 = st.columns([1, 2])
     with col1:
@@ -104,8 +170,9 @@ with tabs[0]:
             input_dir.mkdir(parents=True, exist_ok=True)
             saved = []
 
-            if folder_path.strip():
-                root = Path(folder_path.strip())
+            src_path = folder_path.strip() or st.session_state.browse_selected
+            if src_path:
+                root = Path(src_path)
                 if not root.exists():
                     st.error(f"Folder not found: {root}")
                 else:

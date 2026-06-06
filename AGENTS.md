@@ -54,4 +54,5 @@ Expects `Phase 01_TextExtraction/<doc_id>/file_llm_feed.md` as input; outputs to
 - Field definitions are inline in Python at `src/millenia_dossier/extraction.py:FIELD_DEFINITIONS` (56 fields), following HealthRate's approach.
 - Evidence per field: `{doc_id, file_name, quote, page_start, page_end}`.
 - Run directories follow the naming pattern `runs/<run_id>/`.
+- Upload tab Browse UI: inline directory browser activated via "Browse…" button. Shows drives → subdirectory selectbox → navigate up/down. Confirmed path populates the text input. State stored in `browse_active`, `browse_path`, `browse_selected`. Revert backup at `_revert_backups/streamlit_app.pre-browse.bak`.
 - Excel export is named `millenia_dossier_export.xlsx` (not `document_intelligence_export.xlsx`).
