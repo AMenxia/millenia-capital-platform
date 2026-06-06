@@ -22,11 +22,12 @@ SUPPORTED_EXTENSIONS = {
 from millenia_dossier.config import get_config
 from millenia_dossier.docling_pipeline import run_docling_on_files
 from millenia_dossier.excel_exporter import create_excel_export
-from millenia_dossier.extraction import run_extraction, run_per_document_extraction, run_merge_dossier
+from millenia_dossier.extraction import run_extraction, run_per_document_extraction, run_merge_dossier, FIELD_NAMES, FIELD_DEFINITIONS, _split_documents, _build_doc_prompt, _build_merge_prompt
 from millenia_dossier.feed_builder import build_llm_feed
-from millenia_dossier.table_corrector import correct_tables
-from millenia_dossier.utils import now_run_id, read_json, write_json
-from millenia_dossier.visual_analyzer import analyze_visuals, update_visual_notes
+from millenia_dossier.ollama_client import chat_text_stream, chat_vision_stream, OllamaError
+from millenia_dossier.table_corrector import correct_tables, build_table_prompt
+from millenia_dossier.utils import now_run_id, read_json, write_json, safe_text, extract_json_from_text
+from millenia_dossier.visual_analyzer import analyze_visuals, update_visual_notes, build_visual_prompt
 
 st.set_page_config(page_title="Millenia Dossier — Company Intelligence", layout="wide")
 
@@ -347,8 +348,48 @@ with tabs[3]:
                     st.markdown("Raw Docling table preview")
                     st.text_area("Raw table markdown", value=table.get("raw_markdown", "")[:6000], height=220, key=f"rawtable_{table.get('table_id')}")
         if st.button("Run table correction", type="primary"):
-            with st.spinner("Correcting tables..."):
-                cleaned = correct_tables(run_dir, llm_model=llm_model, ollama_url=ollama_url, table_ids=selected_tables, use_llm=use_llm_table_correction)
+            if not use_llm_table_correction:
+                cleaned = correct_tables(run_dir, llm_model=llm_model, ollama_url=ollama_url, table_ids=selected_tables, use_llm=False)
+                st.success(f"Created cleaned_tables.json with {len(cleaned)} table(s).")
+            else:
+                raw_tables_data = read_json(run_dir / "raw_tables.json", default=[])
+                selected_raw = [t for t in raw_tables_data if not selected_tables or t.get("table_id") in set(selected_tables)]
+                cleaned = []
+                stream_box = st.empty()
+                prog = st.empty()
+                for idx, raw in enumerate(selected_raw, 1):
+                    prog.caption(f"Correcting table {idx}/{len(selected_raw)} — {raw.get('table_id')}")
+                    prompt = build_table_prompt(raw)
+                    full = []
+                    try:
+                        for token in chat_text_stream(prompt, model=llm_model, ollama_url=ollama_url, temperature=0.05):
+                            full.append(token)
+                            stream_box.markdown("".join(full) + " ▌")
+                        result = extract_json_from_text("".join(full))
+                    except OllamaError:
+                        result = {}
+                    cleaned_table = {
+                        "doc_id": raw.get("doc_id"),
+                        "file_name": raw.get("file_name"),
+                        "item_id": raw.get("item_id"),
+                        "table_id": raw.get("table_id"),
+                        "page_no": raw.get("page_no"),
+                        "caption": safe_text(result.get("caption", "")) if isinstance(result, dict) else "",
+                        "columns": result.get("columns", []) if isinstance(result, dict) else [],
+                        "rows": result.get("rows", []) if isinstance(result, dict) else [],
+                        "issues": result.get("issues", []) if isinstance(result, dict) else ["LLM returned non-object JSON."],
+                    }
+                    if not cleaned_table["columns"] or not isinstance(cleaned_table["rows"], list):
+                        fallback = {
+                            "columns": raw.get("columns") or [],
+                            "rows": raw.get("rows") or [],
+                        }
+                        cleaned_table["columns"] = fallback["columns"]
+                        cleaned_table["rows"] = fallback["rows"]
+                        cleaned_table["issues"].append("Fallback used.")
+                    cleaned.append(cleaned_table)
+                write_json(run_dir / "cleaned_tables.json", cleaned)
+                stream_box.empty()
                 st.success(f"Created cleaned_tables.json with {len(cleaned)} table(s).")
         cleaned_tables = read_json(run_dir / "cleaned_tables.json", default=[])
         if cleaned_tables:
@@ -396,9 +437,50 @@ with tabs[4]:
             st.success("Saved visual notes/statuses.")
         if st.button("Run VLM on selected visuals", type="primary", disabled=not use_vlm_visual_review):
             update_visual_notes(run_dir, updates)
-            with st.spinner("Running VLM..."):
-                summaries = analyze_visuals(run_dir, vlm_model=vlm_model, ollama_url=ollama_url, visual_ids=selected_visuals)
-                st.success(f"Created image_summaries.json with {len(summaries)} summaries.")
+            visual_items_data = read_json(run_dir / "visual_items.json", default=[])
+            selected = [v for v in visual_items_data if selected_visuals and v.get("visual_id") in set(selected_visuals)]
+            selected = [v for v in selected if v.get("human_status") in {"keep", "needs_review"}]
+            summaries = []
+            stream_box = st.empty()
+            prog = st.empty()
+            for idx, item in enumerate(selected, 1):
+                crop_path = item.get("crop_path")
+                if not crop_path or not Path(crop_path).exists():
+                    summaries.append({
+                        "doc_id": item.get("doc_id"), "file_name": item.get("file_name"),
+                        "item_id": item.get("item_id"), "visual_id": item.get("visual_id"),
+                        "page_no": item.get("page_no"), "visual_type": "unknown",
+                        "summary": "No crop image was available for VLM analysis.",
+                        "visible_text": [], "importance": "unclear",
+                        "human_note": item.get("human_note", ""), "issues": ["Missing crop path."],
+                    })
+                    continue
+                prog.caption(f"Analyzing visual {idx}/{len(selected)} — {item.get('visual_id')}")
+                prompt = build_visual_prompt(item)
+                full = []
+                try:
+                    for token in chat_vision_stream(prompt, image_path=Path(crop_path), model=vlm_model, ollama_url=ollama_url):
+                        full.append(token)
+                        stream_box.markdown("".join(full) + " ▌")
+                    result = extract_json_from_text("".join(full))
+                    if not isinstance(result, dict):
+                        raise ValueError("VLM returned non-object JSON")
+                except Exception as exc:
+                    result = {"visual_type": "unknown", "summary": "VLM analysis failed.", "visible_text": [], "importance": "unclear", "issues": [str(exc)]}
+                summaries.append({
+                    "doc_id": item.get("doc_id"), "file_name": item.get("file_name"),
+                    "item_id": item.get("item_id"), "visual_id": item.get("visual_id"),
+                    "page_no": item.get("page_no"), "crop_path": crop_path,
+                    "human_note": item.get("human_note", ""),
+                    "visual_type": result.get("visual_type", "unknown"),
+                    "summary": result.get("summary", ""),
+                    "visible_text": result.get("visible_text", []),
+                    "importance": result.get("importance", "unclear"),
+                    "issues": result.get("issues", []),
+                })
+            write_json(run_dir / "image_summaries.json", summaries)
+            stream_box.empty()
+            st.success(f"Created image_summaries.json with {len(summaries)} summaries.")
         summaries = read_json(run_dir / "image_summaries.json", default=[])
         if summaries:
             st.markdown("### Image summary preview")
@@ -430,21 +512,130 @@ with tabs[6]:
         col1, col2 = st.columns(2)
         with col1:
             if st.button("Step 1: Extract per-document JSONs", type="primary"):
-                with st.spinner("Extracting per-document fields..."):
-                    try:
-                        docs = run_per_document_extraction(run_dir, llm_model=llm_model, ollama_url=ollama_url)
-                        st.success(f"Extracted {len(docs)} document(s). JSONs saved to json_for_each_file/")
-                    except Exception as exc:
-                        st.error(str(exc))
+                feed_path = run_dir / "file_llm_feed.md"
+                if not feed_path.exists():
+                    st.error(f"LLM feed not found: {feed_path}")
+                else:
+                    feed_text = feed_path.read_text(encoding="utf-8")
+                    docs = _split_documents(feed_text)
+                    json_dir = run_dir / "json_for_each_file"
+                    json_dir.mkdir(parents=True, exist_ok=True)
+                    manifest = read_json(run_dir / "run_manifest.json", default={})
+                    doc_manifest = manifest.get("documents", [])
+                    per_doc_results = []
+                    stream_box = st.empty()
+                    prog = st.empty()
+                    for i, doc in enumerate(docs):
+                        doc_id = f"doc_{i+1:03d}"
+                        file_name = doc["doc_name"]
+                        source_path = ""
+                        if i < len(doc_manifest):
+                            file_name = doc_manifest[i].get("file_name", doc["doc_name"])
+                            source_path = doc_manifest[i].get("source_path", "")
+                        prog.caption(f"Extracting document {i+1}/{len(docs)} — {file_name}")
+                        prompt = _build_doc_prompt(doc)
+                        full = []
+                        try:
+                            for token in chat_text_stream(prompt, model=llm_model, ollama_url=ollama_url, temperature=0.1, timeout=300):
+                                full.append(token)
+                                stream_box.markdown("".join(full) + " ▌")
+                            result = extract_json_from_text("".join(full))
+                            if not isinstance(result, dict):
+                                raise ValueError("LLM returned non-object JSON")
+                        except Exception as exc:
+                            result = {
+                                "document_category": "Unknown",
+                                "short_summary": f"Extraction failed: {exc}",
+                                "long_summary": "",
+                                "fields": {},
+                                "key_people": [],
+                            }
+                        doc_output = {
+                            "doc_id": doc_id,
+                            "file_name": file_name,
+                            "source_path": source_path,
+                            "document_category": result.get("document_category", "Unknown"),
+                            "short_summary": result.get("short_summary", ""),
+                            "long_summary": result.get("long_summary", ""),
+                            "doc_fields": {},
+                            "key_people": result.get("key_people", []),
+                            "source_markdown_file": str(feed_path),
+                        }
+                        raw_fields = result.get("fields", {})
+                        for fname in FIELD_NAMES:
+                            fdata = raw_fields.get(fname, {})
+                            if not isinstance(fdata, dict):
+                                fdata = {"value": fdata, "answer": "", "evidence_quote": ""}
+                            value = fdata.get("value")
+                            answer = fdata.get("answer", "")
+                            evidence_quote = fdata.get("evidence_quote", "")
+                            doc_output["doc_fields"][fname] = {
+                                "value": value,
+                                "answer": answer,
+                                "evidence": [
+                                    {"doc_id": doc_id, "file_name": file_name, "quote": evidence_quote or "", "page_start": None, "page_end": None}
+                                ] if evidence_quote else [],
+                            }
+                        doc_json_path = json_dir / f"{doc_id}.json"
+                        write_json(doc_json_path, doc_output)
+                        per_doc_results.append(doc_output)
+                    stream_box.empty()
+                    st.success(f"Extracted {len(per_doc_results)} document(s). JSONs saved to json_for_each_file/")
         with col2:
             step1_done = (run_dir / "json_for_each_file").exists() and any((run_dir / "json_for_each_file").iterdir())
             if st.button("Step 2: Merge dossier", type="primary", disabled=not step1_done):
-                with st.spinner("Merging documents into company dossier..."):
-                    try:
-                        dossier = run_merge_dossier(run_dir, llm_model=llm_model, ollama_url=ollama_url)
-                        st.success(f"Created company_dossier_merged.json with {dossier.get('final_fields_count', 0)} populated fields.")
-                    except Exception as exc:
-                        st.error(str(exc))
+                json_dir = run_dir / "json_for_each_file"
+                if not json_dir.exists():
+                    st.error(f"No per-document JSONs found at {json_dir}")
+                else:
+                    per_doc_fields = []
+                    for path in sorted(json_dir.glob("*.json")):
+                        data = read_json(path, default={})
+                        if isinstance(data, dict) and data.get("doc_fields"):
+                            per_doc_fields.append(data)
+                    if not per_doc_fields:
+                        st.error("No per-document extractions found to merge.")
+                    else:
+                        merge_prompt = _build_merge_prompt(per_doc_fields, llm_model)
+                        stream_box = st.empty()
+                        full = []
+                        try:
+                            for token in chat_text_stream(merge_prompt, model=llm_model, ollama_url=ollama_url, temperature=0.1, timeout=600):
+                                full.append(token)
+                                stream_box.markdown("".join(full) + " ▌")
+                            merged = extract_json_from_text("".join(full))
+                            if not isinstance(merged, dict):
+                                raise ValueError("Merge returned non-object JSON")
+                        except Exception as exc:
+                            merged = {"short_summary": f"Merge failed: {exc}", "long_summary": "", "final_fields": {}}
+                        final_fields = merged.get("final_fields", {})
+                        for fname in FIELD_NAMES:
+                            if fname not in final_fields:
+                                final_fields[fname] = {"value": None, "answer": "Not found in any document.", "evidence": []}
+                        documents = []
+                        for doc in per_doc_fields:
+                            documents.append({
+                                "doc_id": doc.get("doc_id"),
+                                "file_name": doc.get("file_name"),
+                                "document_category": doc.get("document_category"),
+                                "short_summary": doc.get("short_summary"),
+                                "long_summary": doc.get("long_summary"),
+                                "source_markdown_file": doc.get("source_markdown_file"),
+                                "source_json_file": str(json_dir / f"{doc.get('doc_id')}.json"),
+                            })
+                        dossier = {
+                            "short_summary": merged.get("short_summary", ""),
+                            "long_summary": merged.get("long_summary", ""),
+                            "final_fields": final_fields,
+                            "documents": documents,
+                            "model_used": llm_model,
+                            "provider_used": "ollama",
+                            "source_document_count": len(per_doc_fields),
+                            "final_fields_count": len([f for f in final_fields.values() if f.get("value") is not None]),
+                        }
+                        write_json(run_dir / "company_dossier_merged.json", dossier)
+                        stream_box.empty()
+                        st.success(f"Created company_dossier_merged.json with {dossier['final_fields_count']} populated fields.")
 
         dossier = read_json(run_dir / "company_dossier_merged.json", default=None)
         if dossier:
